@@ -1,0 +1,171 @@
+{
+    "Zack Lee": {
+        "name": "Zack Lee",
+        "image": "https://tenor.com/view/lookism-anime-zack-daniel-zin-lee-gif-26796924",
+        "stats": {
+            "attack": 10000,
+            "health": 50000,
+            "speed": 12000
+        },
+        "ticket_drop_rate": 4.0,
+        "weapon_drop_rate": 15.0,
+        "weapon_id": "iron_chains",
+        "max_players": 2
+    },
+    "Vasco": {
+        "name": "Vasco",
+        "image": "https://tenor.com/view/vasco-lookism-hdihaja-vasco-lookism-pablodre-gif-10204915040743303514",
+        "stats": {
+            "attack": 12000,
+            "health": 65000,
+            "speed": 15000
+        },
+        "ticket_drop_rate": 3.5,
+        "weapon_drop_rate": 12.0,
+        "weapon_id": "golden_knuckles",
+        "max_players": 2
+    },
+    "Eli Jang": {
+        "name": "Eli Jang",
+        "image": "https://tenor.com/view/elijang-eli-jang-workers-eli-jang-lookism-lookism-gif-4731043991015237180",
+        "stats": {
+            "attack": 14000,
+            "health": 70000,
+            "speed": 17000
+        },
+        "ticket_drop_rate": 3.0,
+        "weapon_drop_rate": 10.0,
+        "weapon_id": "tactical_baton",
+        "max_players": 2
+    },
+    "Jake Kim": {
+        "name": "Jake Kim",
+        "image": "",
+        "stats": {
+            "attack": 15000,
+            "health": 75000,
+            "speed": 18500
+        },
+        "ticket_drop_rate": 2.5,
+        "weapon_drop_rate": 8.0,
+        "weapon_id": "mma_gloves",
+        "max_players": 2
+    },
+    "Og Daniel": {
+        "name": "OG Daniel",
+        "image": "https://tenor.com/view/lookism-daniel-park-park-hyung-seok-ui-daniel-og-daniel-gif-15068524945817436790",
+        "stats": {
+            "attack": 16500,
+            "health": 80000,
+            "speed": 20000
+        },
+        "ticket_drop_rate": 2.0,
+        "weapon_drop_rate": 6.0,
+        "weapon_id": "copy_badge",
+        "max_players": 2
+    },
+    "Johan Seong": {
+        "name": "Johan Seong",
+        "image": "https://tenor.com/view/johan-cqc-lookism-cqc-manager-kim-manhwa-gif-17973416707323204812",
+        "stats": {
+            "attack": 17000,
+            "health": 85000,
+            "speed": 25000
+        },
+        "ticket_drop_rate": 1.5,
+        "weapon_drop_rate": 5.0,
+        "weapon_id": "god_dog_badge",
+        "max_players": 3
+    },
+    "Jinyeong Park": {
+        "name": "Jinyeong Park",
+        "image": "https://tenor.com/view/lookism-jinyoung-park-daniel-park-ui-daniel-ultra-instinct-daniel-gif-9263125947176643928",
+        "stats": {
+            "attack": 17500,
+            "health": 87000,
+            "speed": 26500
+        },
+        "ticket_drop_rate": 1.0,
+        "weapon_drop_rate": 4.0,
+        "weapon_id": "mystery_syringe",
+        "max_players": 3
+    },
+    "Sb Daniel": {
+        "name": "Daniel Park (SB)",
+        "image": "https://tenor.com/view/daniel-park-ui-gif-27709501",
+        "stats": {
+            "attack": 19000,
+            "health": 90000,
+            "speed": 28000
+        },
+        "ticket_drop_rate": 0.9,
+        "weapon_drop_rate": 3.5,
+        "weapon_id": "ui_badge",
+        "max_players": 4
+    },
+    "James Lee": {
+        "name": "James Lee",
+        "image": "https://tenor.com/view/lookism-run-lee-james-lee-lookism-character-gif-12120059400719786673",
+        "stats": {
+            "attack": 20000,
+            "health": 95000,
+            "speed": 30000
+        },
+        "ticket_drop_rate": 0.5,
+        "weapon_drop_rate": 3.0,
+        "weapon_id": "one_night_trophy",
+        "max_players": 5
+    },
+    "Goo Kim": {
+        "name": "Goo Kim",
+        "image": "https://tenor.com/view/goo-lookism-goo-kim-lookism-goo-goo-kim-goo-vs-tom-gif-4985332465696728",
+        "stats": {
+            "attack": 22500,
+            "health": 100000,
+            "speed": 33500
+        },
+        "ticket_drop_rate": 0.4,
+        "weapon_drop_rate": 2.5,
+        "weapon_id": "moon_katana",
+        "max_players": 6
+    },
+    "Shingen Yamazaki": {
+        "name": "Shingen Yamazaki",
+        "image": "https://cdn.discordapp.com/attachments/1438869233982509146/1440355338569121845/IMG_1979.jpg?ex=692d0431&is=692bb2b1&hm=16c894e244597f210ba831d365c3dfd5f91bb56395a00ced2f1a472bfceb7ed5&",
+        "stats": {
+            "attack": 25000,
+            "health": 110000,
+            "speed": 35000
+        },
+        "ticket_drop_rate": 0.3,
+        "weapon_drop_rate": 2.0,
+        "weapon_id": "yamazaki_katana",
+        "max_players": 7
+    },
+    "Gapryong Kim": {
+        "name": "Gapryong Kim",
+        "image": "https://cdn.discordapp.com/attachments/1438869233982509146/1440354859936383178/IMG_1738.jpg?ex=692d03bf&is=692bb23f&hm=a6e427ed6c6855bfafaec2df7ab8758d5283d9f333870888cc403e76efa91c43&",
+        "stats": {
+            "attack": 30000,
+            "health": 125000,
+            "speed": 40000
+        },
+        "ticket_drop_rate": 0.25,
+        "weapon_drop_rate": 1.5,
+        "weapon_id": "gapryong_fist",
+        "max_players": 7
+    },
+    "Gun Park": {
+        "name": "Gun Park",
+        "image": "https://tenor.com/view/lookism-gun-rap-ptj-jong-gun-gif-16403875326781673214",
+        "stats": {
+            "attack": 35000,
+            "health": 150000,
+            "speed": 50000
+        },
+        "ticket_drop_rate": 0.35,
+        "weapon_drop_rate": 1.0,
+        "weapon_id": "gun_pistol",
+        "max_players": 6
+    }
+}

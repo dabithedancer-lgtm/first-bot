@@ -1,0 +1,43 @@
+{
+    "1764471399": {
+        "id": "1764471399",
+        "name": "Burn knuckles",
+        "leader": "1311982479032193065",
+        "members": [
+            "1311982479032193065"
+        ],
+        "bank": 0,
+        "businesses": {},
+        "raid_logs": [],
+        "exp": 43,
+        "level": 0,
+        "type": "gang"
+    },
+    "1764476879": {
+        "id": "1764476879",
+        "name": "white ghost",
+        "leader": "1292777123639201815",
+        "members": [
+            "1292777123639201815",
+            "1315746066900975770"
+        ],
+        "bank": 0,
+        "businesses": {
+            "b_1764478779": {
+                "name": "child labour",
+                "income": 25000,
+                "is_stolen": false
+            }
+        },
+        "raid_logs": [],
+        "exp": 25,
+        "level": 0,
+        "type": "gang",
+        "territories": [
+            "busan",
+            "gangbuk",
+            "hiro's mom",
+            "ansan"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "agent_alpha": {
+        "name": "White Tiger Agent Alpha",
+        "daily_cost": 10000,
+        "team": [
+            {
+                "name": "Daniel Park",
+                "atk": 220,
+                "hp": 2400
+            },
+            {
+                "name": "Vasco",
+                "atk": 210,
+                "hp": 2600
+            }
+        ]
+    },
+    "agent_beta": {
+        "name": "White Tiger Agent Beta",
+        "daily_cost": 30000,
+        "team": [
+            {
+                "name": "Zack Lee",
+                "atk": 260,
+                "hp": 2800
+            },
+            {
+                "name": "Jay Hong",
+                "atk": 240,
+                "hp": 2600
+            },
+            {
+                "name": "Mira Kim",
+                "atk": 230,
+                "hp": 2500
+            }
+        ]
+    },
+    "agent_gamma": {
+        "name": "White Tiger Agent Gamma",
+        "daily_cost": 60000,
+        "team": [
+            {
+                "name": "Gun Park",
+                "atk": 320,
+                "hp": 3200
+            },
+            {
+                "name": "Eugene",
+                "atk": 280,
+                "hp": 3000
+            },
+            {
+                "name": "Jake Kim",
+                "atk": 260,
+                "hp": 2900
+            }
+        ]
+    },
+    "agent_sigma": {
+        "name": "White Tiger Agent Sigma",
+        "daily_cost": 100000,
+        "team": [
+            {
+                "name": "Unknown White Tiger",
+                "atk": 380,
+                "hp": 3800
+            },
+            {
+                "name": "Elite Enforcer",
+                "atk": 340,
+                "hp": 3600
+            },
+            {
+                "name": "Silent Blade",
+                "atk": 320,
+                "hp": 3400
+            },
+            {
+                "name": "Iron Wall",
+                "atk": 280,
+                "hp": 4200
+            }
+        ]
+    },
+    "npc_boss": {
+        "name": "White Tiger Territory Warden",
+        "daily_cost": 0,
+        "team": [
+            {
+                "name": "Warden",
+                "atk": 300,
+                "hp": 3500
+            },
+            {
+                "name": "Enforcer",
+                "atk": 260,
+                "hp": 3200
+            },
+            {
+                "name": "Sniper",
+                "atk": 280,
+                "hp": 2800
+            }
+        ]
+    }
+}

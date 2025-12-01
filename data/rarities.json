@@ -1,0 +1,73 @@
+{
+    "UR": {
+        "display_name": "UR",
+        "color": "#000000",
+        "emoji": "<:UR:1442264418539798739>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978020574527560/1000002055.png?ex=6923c22e&is=692270ae&hm=93316f3363fed22fc3fe13949326d0d65e45d7792e1b695192ef9783b1dc874f&",
+        "aura_drop": 200
+    },
+    "SSR": {
+        "display_name": "SSR",
+        "color": "#ffffff",
+        "emoji": "\ud83d\ude42",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978020251308193/1000002054.png?ex=6923c22e&is=692270ae&hm=74fc306e21546373006c8ab3c5e1d5de3cff7428788bfe3d54e5b7cdb7a8b1f4&",
+        "weight_multiplier": 0.1,
+        "aura_drop": 160
+    },
+    "SR": {
+        "display_name": "SR",
+        "color": "#a300c3",
+        "emoji": "<:SR:1442264467135266848>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978019928473672/1000002053.png?ex=6923c22e&is=692270ae&hm=248a81e3811d7fa21a69bf584bf5f08834fe497448cda7ef18995fc21f16042b&",
+        "weight_multiplier": 1,
+        "aura_drop": 120
+    },
+    "SSS": {
+        "display_name": "SSS",
+        "color": "#00d837",
+        "emoji": "<:SSS:1442264729224609792>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978019609579580/1000002052.png?ex=6923c22e&is=692270ae&hm=18d58096c87f15c18bb65792fe8ec8b1d9b6f2a7e11ec9af90d980ebb5ade783&",
+        "weight_multiplier": 3,
+        "aura_drop": 80
+    },
+    "SS": {
+        "display_name": "SS",
+        "color": "#ffe131",
+        "emoji": "<:SS:1442264671225778186>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978019261579315/1000002051.png?ex=6923c22e&is=692270ae&hm=205d850d6be0aa8e048f90b1d5baabed09c381dcd8f935da648cc90039d9bf44&",
+        "weight_multiplier": 5,
+        "aura_drop": 50
+    },
+    "S": {
+        "display_name": "S",
+        "color": "#cf0022",
+        "emoji": "<:S_:1442264571254411416>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978018896547850/1000002050.png?ex=6923c22e&is=692270ae&hm=db509a4fa8fd5046ff535719e9779e471d7c61da8c21d2c8b258f01445deff29&",
+        "weight_multiplier": 5,
+        "aura_drop": 25
+    },
+    "A": {
+        "display_name": "A",
+        "color": "#d3ff52",
+        "emoji": "<:A_:1442264616548700211>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978018578038897/1000002057.png?ex=6923c22e&is=692270ae&hm=64192a1ff1afae62db04a3f6e24f3e6c2e57d8b3f73116e8d3281a717b8a2835&",
+        "weight_multiplier": 5,
+        "aura_drop": 15
+    },
+    "B": {
+        "display_name": "B",
+        "color": "#00b5f4",
+        "emoji": "<:B_:1442264512429424650>",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441978018200424520/1000002056.png?ex=6923c22e&is=692270ae&hm=4c3673dd6a4801a31addaed751da4409ebba00ae0125dd73e10cdb8ff7650ed4&",
+        "weight_multiplier": 5,
+        "aura_drop": 10
+    },
+    "C": {
+        "display_name": "C",
+        "color": "#f46f00",
+        "emoji": "\ud83d\ude10",
+        "icon": "https://cdn.discordapp.com/attachments/1439586635900518472/1441992129307217930/c-7110278_640.png?ex=6923cf52&is=69227dd2&hm=f51c4cc2d8b5219990346bc2933d4f05ec45512072f8b75c96eaa93753386850&",
+        "weight_multiplier": 5,
+        "aura_drop": 5
+    }
+}

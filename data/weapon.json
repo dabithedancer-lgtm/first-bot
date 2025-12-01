@@ -1,0 +1,134 @@
+{
+    "iron_chains": {
+        "name": "Iron Chains",
+        "rarity": "SS",
+        "icon": "⛓️",
+        "stats": {
+            "health": 500,
+            "speed": 300,
+            "attack": 0
+        },
+        "drop_rate": 4.0
+    },
+    "golden_knuckles": {
+        "name": "Golden Knuckles",
+        "rarity": "SS",
+        "icon": "👊",
+        "stats": {
+            "attack": 400,
+            "health": 200,
+            "speed": 0
+        },
+        "drop_rate": 4.0
+    },
+    "tactical_baton": {
+        "name": "Tactical Baton",
+        "rarity": "SS",
+        "icon": "🥖",
+        "stats": {
+            "speed": 350,
+            "attack": 250,
+            "health": 0
+        },
+        "drop_rate": 3.5
+    },
+    "mma_gloves": {
+        "name": "MMA Gloves",
+        "rarity": "SS",
+        "icon": "🥊",
+        "stats": {
+            "attack": 300,
+            "health": 300,
+            "speed": 0
+        },
+        "drop_rate": 3.0
+    },
+    "copy_badge": {
+        "name": "Copy Badge",
+        "rarity": "SSR",
+        "icon": "🎭",
+        "stats": {
+            "attack": 350,
+            "speed": 350,
+            "health": 0
+        },
+        "drop_rate": 2.5
+    },
+    "god_dog_badge": {
+        "name": "God Dog Badge",
+        "rarity": "SSR",
+        "icon": "🐕",
+        "stats": {
+            "attack": 400,
+            "speed": 200,
+            "health": 0
+        },
+        "drop_rate": 2.0
+    },
+    "mystery_syringe": {
+        "name": "Mystery Syringe",
+        "rarity": "SSR",
+        "icon": "💉",
+        "stats": {
+            "attack": 600,
+            "health": -200,
+            "speed": 100
+        },
+        "drop_rate": 1.5
+    },
+    "ui_badge": {
+        "name": "UI Badge",
+        "rarity": "UR",
+        "icon": "👁️",
+        "stats": {
+            "attack": 500,
+            "speed": 500,
+            "health": 500
+        },
+        "drop_rate": 0.9
+    },
+    "one_night_trophy": {
+        "name": "One Night Trophy",
+        "rarity": "UR",
+        "icon": "🏆",
+        "stats": {
+            "speed": 800,
+            "attack": 200,
+            "health": 0
+        },
+        "drop_rate": 0.5
+    },
+    "yamazaki_katana": {
+        "name": "Yamazaki Katana",
+        "rarity": "UR",
+        "icon": "🗡️",
+        "stats": {
+            "attack": 1000,
+            "health": 1000,
+            "speed": 1000
+        },
+        "drop_rate": 0.25
+    },
+    "moon_katana": {
+        "name": "Moon Katana",
+        "rarity": "UR",
+        "icon": "⚔️",
+        "stats": {
+            "attack": 1200,
+            "speed": 400,
+            "health": -500
+        },
+        "drop_rate": 0.3
+    },
+    "gapryong_fist": {
+        "name": "Gapryong's Fist",
+        "rarity": "UR",
+        "icon": "👊",
+        "stats": {
+            "attack": 1500,
+            "health": 1500,
+            "speed": 500
+        },
+        "drop_rate": 0.15
+    }
+}

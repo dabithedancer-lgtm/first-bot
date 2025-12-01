@@ -1,0 +1,3156 @@
+{
+    "mira_kim": {
+        "id": "mira_kim",
+        "name": "Mira Kim",
+        "rarity": "C",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438945330837192886/1339629320f726349fb80e87b06d712e.jpg?ex=69214b85&is=691ffa05&hm=46c05354ce3fa97f916ef9900eb8db67b21c064b55333baeef3ad30b38ba9d42&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438945331403427921/53e1aa78ebb405c7c82d49d7cdd2b905653c9965.jpg?ex=69214b85&is=691ffa05&hm=46682b964bc339a4cbd6a682bf6e6fee9b2de0ca9b7e1534fbfc19c52caccea8&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438945331814596628/m2zobxlpaaaa.jpg?ex=69214b85&is=691ffa05&hm=b496c6c4d18d366aab773b82e60ce1e12ca0e61a77deec5c7dde91c0cbb18e3c&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438945332217122876/what-do-you-think-about-her-as-a-character-and-as-a-person-v0-d7mgnnqidrqa1.png?ex=69214b85&is=691ffa05&hm=5bb1ed24e73e4a773dfbb850ef1579b9fccb1851ec8c37e40ba433b495ff4caa&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 18,
+                "health": 100,
+                "speed": 110
+            },
+            "evo_2": {
+                "attack": 27,
+                "health": 200,
+                "speed": 175
+            },
+            "evo_3": {
+                "attack": 39,
+                "health": 328,
+                "speed": 230
+            },
+            "evo_4": {
+                "attack": 50,
+                "health": 509,
+                "speed": 357
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "zoe_park": {
+        "id": "zoe_park",
+        "name": "Zoe Park",
+        "rarity": "C",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439094949269340170/IMG_1802.webp?ex=6921d6dc&is=6920855c&hm=4365cca72d2c5d9d3f6e0c14061991d5e3375bb967d09cf6433ca2439654f99f&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439094949625987143/IMG_1803.png?ex=69212e1d&is=691fdc9d&hm=75ffb5801ccf3202d59df12cd807246c9d7c4eb99747ccebab21191c28b9e980&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439094949868994570/IMG_1804.jpg?ex=69212e1d&is=691fdc9d&hm=a34444b599cb81cf3dce1efa14945bb520d6cc1ec0ca5e5d180897692b905c9b&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439094950242418819/IMG_1805.webp?ex=69212e1d&is=691fdc9d&hm=2f400e1a1ac916297440a3fc9d2ab58e8398423950e78c9e0a91f2605467e8d0&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 6,
+                "health": 144,
+                "speed": 129
+            },
+            "evo_2": {
+                "attack": 9,
+                "health": 180,
+                "speed": 176
+            },
+            "evo_3": {
+                "attack": 11,
+                "health": 216,
+                "speed": 211
+            },
+            "evo_4": {
+                "attack": 25,
+                "health": 270,
+                "speed": 264
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hwang_ho": {
+        "id": "hwang_ho",
+        "name": "Hwang Ho",
+        "rarity": "C",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438170717333225692/Hwang_Ho_evo_1.webp?ex=6921c5da&is=6920745a&hm=356734fff3aefaff0b25374e23369ca80a01ef51b8e2ad8e15e62d0c6d741c94&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438170717689614377/Hwang_Ho_evo_2.webp?ex=6921c5db&is=6920745b&hm=65aa157aa1c5887337406859afbcc9a0c14f8099cdaf1283661497eb05fce4e3&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438170718008246315/Hwang_Ho_evo_3.jpg?ex=6921c5db&is=6920745b&hm=46b693c1a9e229d34d81185168a2bf4a980764e9402ea9e63f5e75df07e187b1&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438170718390190110/Hwang_Ho_evo_4.webp?ex=6921c5db&is=6920745b&hm=96ca49402af53027837277b9b5564c2d1cb9f55fbe3791956913d43566180cc3&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 35,
+                "health": 213,
+                "speed": 240
+            },
+            "evo_2": {
+                "attack": 40,
+                "health": 256,
+                "speed": 288
+            },
+            "evo_3": {
+                "attack": 98,
+                "health": 307,
+                "speed": 345
+            },
+            "evo_4": {
+                "attack": 150,
+                "health": 499,
+                "speed": 449
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jace_park": {
+        "id": "jace_park",
+        "name": "Jace Park",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438939440302002319/jace_park_B_evo_1.jpg?ex=6921eec8&is=69209d48&hm=b142dbc03df7715c69ad7cfb4ff853723252385d74bf2cb5dd8e76d52e4ea21a&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438939440696525061/jace_park_B_evo_2.jpg?ex=6921eec8&is=69209d48&hm=a54b16955a5874752a3a88c8322d9faebb28d08a968bf5843a2f6d13ea379088&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438939441430265977/jace_park_B_evo_3.jpg?ex=6921eec9&is=69209d49&hm=2216d4cd9fbd6d2d9b89c6cc286d63e02d264ea96c6204e8992638a4025a0014&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438939441841569944/jace_park_B_evo_4.jpg?ex=6921eec9&is=69209d49&hm=99fa2ff69062a1ce6f13ba0436839f32e7789e321e83d18686c2f201b2bdc9e6&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 77,
+                "health": 444,
+                "speed": 492
+            },
+            "evo_2": {
+                "attack": 131,
+                "health": 532,
+                "speed": 590
+            },
+            "evo_3": {
+                "attack": 252,
+                "health": 639,
+                "speed": 708
+            },
+            "evo_4": {
+                "attack": 421,
+                "health": 831,
+                "speed": 921
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "vivi": {
+        "id": "vivi",
+        "name": "Vivi",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097592959996034/IMG_1825.jpg?ex=6921d953&is=692087d3&hm=8dd26ab5414da6b3dd45d2a71bd5e296eeaa93cc77fca1d24cae99da14371bbc&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097593383878718/IMG_1823.jpg?ex=6921d953&is=692087d3&hm=eef512a613d45d5782aee489ace5812702a202af9c37466b73b68ad619ce379c&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097593648123914/IMG_1824.jpg?ex=6921d953&is=692087d3&hm=d3fd6d01c50ae5e470cee64ce688933d4a555336b42225de63637c48a40e638a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097593962434701/IMG_1822.webp?ex=6921d953&is=692087d3&hm=55232a7b733cb1784d64e646d772716aaca2ee544aefec2e0b9d4e2a11616297&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 144,
+                "health": 425,
+                "speed": 398
+            },
+            "evo_2": {
+                "attack": 153,
+                "health": 510,
+                "speed": 477
+            },
+            "evo_3": {
+                "attack": 214,
+                "health": 612,
+                "speed": 573
+            },
+            "evo_4": {
+                "attack": 333,
+                "health": 795,
+                "speed": 745
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "sujin": {
+        "id": "sujin",
+        "name": "Sujin",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102585159291010/IMG_1870.webp?ex=6921ddf9&is=69208c79&hm=096db7039ca7e6c29236dfb7e98b569b6d6c687ce86723d601b316e43c323152&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102585528123494/IMG_1871.jpg?ex=6921ddf9&is=69208c79&hm=665f11a2af4f91ddbf5beffdd5b891fa2db7ba2ee6cc2938d697506fb0cb6f44&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102585956208640/IMG_1872.jpg?ex=6921ddf9&is=69208c79&hm=892c4823b777831e9d017253f44b5d7bb95444300ab47bbb2f3ab61d024afa18&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102586492817470/IMG_1873.webp?ex=6921ddf9&is=69208c79&hm=14742d2a03b8483dfcb247a83980ce423a6dd49d957e81a75f495cddbde22a7d&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 152,
+                "health": 430,
+                "speed": 447
+            },
+            "evo_2": {
+                "attack": 188,
+                "health": 516,
+                "speed": 536
+            },
+            "evo_3": {
+                "attack": 233,
+                "health": 619,
+                "speed": 643
+            },
+            "evo_4": {
+                "attack": 303,
+                "health": 804,
+                "speed": 836
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "crystal_choi_sb": {
+        "id": "crystal_choi_sb",
+        "name": "Crystal Choi(SB)",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437392718484602963/1441487732797870133/Crystal_Choi_evo_1.jpg?ex=6921f991&is=6920a811&hm=2f10a6d3ddbe5312724d0bb2b187a484738c593950395abf888235e6e476f2ff&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437392718484602963/1441487733318226002/Crystal_Choi_evo_2.jpg?ex=6921f991&is=6920a811&hm=cf4666e349d0f7ccfb7077596104dfaf396cd477e80c3491b75e9c4adb7a1f6c&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437392718484602963/1441487733854961734/Crystal_Choi_evo_3.jpg?ex=6921f991&is=6920a811&hm=960f425d2370a8b82e5e4a0d1333be55c580174f6c7f83e32c0faa2bf8534599&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437392718484602963/1441487734374924362/Crystal_Choi_evo_4.jpg?ex=6921f991&is=6920a811&hm=465344782748aedeab9e8952541ac4a7dfd0d0191306123dded8e6c09e9d9f9a&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 144,
+                "health": 478,
+                "speed": 479
+            },
+            "evo_2": {
+                "attack": 256,
+                "health": 573,
+                "speed": 574
+            },
+            "evo_3": {
+                "attack": 357,
+                "health": 688,
+                "speed": 689
+            },
+            "evo_4": {
+                "attack": 488,
+                "health": 894,
+                "speed": 896
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "crystal_choi_fb": {
+        "id": "crystal_choi_fb",
+        "name": "Crystal Choi(FB)",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437782537475723414/crystal_choi_fat_evo_1.jpg?ex=6921add5&is=69205c55&hm=70d3f342cae727558885745a674ebe9739b3720aa7142d6b16b64e176eeaacff&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437782537811263508/crystal_choi_fat_evo_2.jpg?ex=6921add5&is=69205c55&hm=d858da565615e44871629da22453d4e221836087c8ad087f2c7af9c43d74043b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437782538176434286/crystal_choi_fat_evo_3.jpg?ex=6921add5&is=69205c55&hm=b74fc1e7a243d06f9da602b33555c5d0231cf32aa5d21adeae7c0f9fb408740f&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437782538583277752/crystal_choi_fat_evo_4.jpg?ex=6921add5&is=69205c55&hm=9cc10d7b211b97db84b11c000b5f8d6d5b1c1aafe30ca6f62848ac5f2b915eb3&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 157,
+                "health": 396,
+                "speed": 200
+            },
+            "evo_2": {
+                "attack": 133,
+                "health": 473,
+                "speed": 240
+            },
+            "evo_3": {
+                "attack": 259,
+                "health": 588,
+                "speed": 478
+            },
+            "evo_4": {
+                "attack": 387,
+                "health": 794,
+                "speed": 567
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "darius_hong": {
+        "id": "darius_hong",
+        "name": "Darius Hong",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438252040391360683/Darius_Hong_evo_1.webp?ex=692168d7&is=69201757&hm=02eb6d59c8f28e28d4324716a2d2c69db6b3b00bd613ed1131e2ca4ddd1b2be8&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438252040668053564/Darius_Hong_evo_2.webp?ex=692168d7&is=69201757&hm=b8c65d4751033c4c0d8b7a947bc80066274615ed8a7cfced68acc9babbcc7d92&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438252041146335466/Darius_Hong_evo_3.webp?ex=692168d8&is=69201758&hm=ccc2580e082666f44e420c4b25693533fe6fae5136e1e47aa42ee1252182ae37&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438252041498661014/Darius_Hong_evo_4.webp?ex=692168d8&is=69201758&hm=036d8daffb51dea1e61f289ed9562190abb02d10047fed1e7829a1e917451668&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 143,
+                "health": 544,
+                "speed": 592
+            },
+            "evo_2": {
+                "attack": 238,
+                "health": 632,
+                "speed": 690
+            },
+            "evo_3": {
+                "attack": 287,
+                "health": 739,
+                "speed": 804
+            },
+            "evo_4": {
+                "attack": 317,
+                "health": 931,
+                "speed": 1021
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jacky_lee": {
+        "id": "jacky_lee",
+        "name": "Jacky Lee",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438256974361002064/Jacky_Lee_B_evo_1.jpg?ex=69216d70&is=69201bf0&hm=8af9af204644fe5919926338cfedba9840aa25b8b3399c9619dde8cc785263ee&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438256974998409316/Jacky_Lee_B_evo_2.jpg?ex=69216d70&is=69201bf0&hm=2f9620b73d16852c9bf63bc9e578e4006dad44fceed513529df30ea3b4f62942&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438256975417966692/Jacky_Lee_B_evo_3.jpg?ex=69216d70&is=69201bf0&hm=60c93544711b1b604ee328fc5a5c5da175a460d44035f8ae2a17e1f1d23dc419&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438256976508354560/Jacky_Lee_B_evo_4.jpg?ex=69216d70&is=69201bf0&hm=5ff853dbc80f73ec198472b5bc553251814fdf0f892b2783f278566a2edfe602&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 188,
+                "health": 578,
+                "speed": 592
+            },
+            "evo_2": {
+                "attack": 232,
+                "health": 678,
+                "speed": 690
+            },
+            "evo_3": {
+                "attack": 267,
+                "health": 840,
+                "speed": 829
+            },
+            "evo_4": {
+                "attack": 311,
+                "health": 1031,
+                "speed": 1090
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "shin_arim": {
+        "id": "shin_arim",
+        "name": "Shin Arim",
+        "rarity": "B",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438258211403726888/Shin_Arim_evo_1.webp?ex=69216e97&is=69201d17&hm=c9451bc69d7fbc86df8c17e042b3e2d711bbf7d26a876d84eaf6c597bae3fb63&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438258211806249202/Shin_Arim_evo_2.jpg?ex=69216e97&is=69201d17&hm=2407da4c4fcb07ea3090f0345ef4c1ae4dba59f906721b518b884f47da31eced&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438258212146118696/Shin_Arim_evo_3.jpg?ex=69216e97&is=69201d17&hm=d41b8cda98d44f6a01212419593286bef943f62761aaaf234f60e672c6bad63e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438258212531998810/Shin_Arim_evo_4.jpg?ex=69216e97&is=69201d17&hm=7684b4382420f13f446fb25c049f199b98e1e63b12875aba44dc5d75884c313c&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 150,
+                "health": 679,
+                "speed": 792
+            },
+            "evo_2": {
+                "attack": 266,
+                "health": 862,
+                "speed": 890
+            },
+            "evo_3": {
+                "attack": 488,
+                "health": 970,
+                "speed": 999
+            },
+            "evo_4": {
+                "attack": 502,
+                "health": 1131,
+                "speed": 1201
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "kouji": {
+        "id": "kouji",
+        "name": "Kouji",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437767391873339503/IMG_1772.webp?ex=69219fba&is=69204e3a&hm=6b57c5ae39eb74ff1134f034d08ec1216c19cb6a871378eb848c50c166154790&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437767392146100272/IMG_1773.jpg?ex=69219fba&is=69204e3a&hm=6f75d19ef364d79fc5874252340dfbcf5e5135bcab5a27ddcd72c3bfcef16c7b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437767392360140901/IMG_1774.jpg?ex=69219fba&is=69204e3a&hm=4a0df22b56221b959811db0be1f25b44e834a81fb94b11c7c242e2e0e81c5f1a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437767392670257232/IMG_1775.png?ex=69219fba&is=69204e3a&hm=b0d2642397d33fe023b151824860aa7079fe0ee8495cd764ba1d32a542e04b8a&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 489,
+                "health": 879,
+                "speed": 992
+            },
+            "evo_2": {
+                "attack": 599,
+                "health": 1062,
+                "speed": 1090
+            },
+            "evo_3": {
+                "attack": 666,
+                "health": 1170,
+                "speed": 1199
+            },
+            "evo_4": {
+                "attack": 890,
+                "health": 1331,
+                "speed": 1401
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "doo_lee": {
+        "id": "doo_lee",
+        "name": "Doo Lee",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439095937153634446/IMG_1806.jpg?ex=6921d7c8&is=69208648&hm=dc07870c805fd33eb81f0ee57aa0e7bfc9cb7e6d7a7d7468ab2f37dc70beb645&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439095937640300684/IMG_1807.jpg?ex=6921d7c8&is=69208648&hm=5afd814f1ddbc75914796c13f32157ab937470b89214715ae14598664ac26510&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439095938080706592/IMG_1808.webp?ex=6921d7c8&is=69208648&hm=97f6fc236bff1e4ebab70fbc60357e9376376adba0894be349cf6fd76169581d&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439095938571309200/IMG_1809.png?ex=6921d7c8&is=69208648&hm=16e10aaed097a210043814f60dbbedbac7921fcc0cf71f8b40094823ccf4bd60&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 99,
+                "health": 1079,
+                "speed": 1192
+            },
+            "evo_2": {
+                "attack": 146,
+                "health": 1262,
+                "speed": 1290
+            },
+            "evo_3": {
+                "attack": 193,
+                "health": 1370,
+                "speed": 1399
+            },
+            "evo_4": {
+                "attack": 245,
+                "health": 1531,
+                "speed": 1601
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "mitsuki_soma": {
+        "id": "mitsuki_soma",
+        "name": "Mitsuki Soma",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439099588677210142/IMG_1845.webp?ex=6921db2f&is=692089af&hm=997cdd1dd136127ca82cd1aff85f56bf42227d074e9ffa139180e2e72c0b56f0&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439099589113282664/IMG_1844.webp?ex=6921db2f&is=692089af&hm=6e112ffbeb4b1ac7bacb9c729184908534a91caebe9e2c4edb2bb9f01cd80d81&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439099589436379248/IMG_1843.webp?ex=6921db2f&is=692089af&hm=5f0d2b0acb70d82f89a68f88df7d44ef621cb8e4187949dc351660b00100b9c4&",
+            "evo_4": "https://media.discordapp.net/attachments/1437396015811661826/1439099589868261486/IMG_1842.webp?ex=6921db2f&is=692089af&hm=e0fb73b4c8b799970f646fa585245bcdad4e01befb578decdb02582591909056&=&format=webp&width=313&height=540"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 165,
+                "health": 1279,
+                "speed": 1392
+            },
+            "evo_2": {
+                "attack": 299,
+                "health": 1462,
+                "speed": 1490
+            },
+            "evo_3": {
+                "attack": 355,
+                "health": 1570,
+                "speed": 1599
+            },
+            "evo_4": {
+                "attack": 432,
+                "health": 1731,
+                "speed": 1801
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "derek_jo": {
+        "id": "derek_jo",
+        "name": "Derek Jo",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101243778793572/IMG_1858.webp?ex=6921dcb9&is=69208b39&hm=acf1052e7678669c8616989d7df6480ad216eee790c49b8e464e06632d12e35d&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101249524863028/IMG_1859.jpg?ex=6921dcbb&is=69208b3b&hm=54884f2e25f523ecc2a642637f82c464909dfd094fa94f9169ea12522685404f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101249797623868/IMG_1860.webp?ex=6921dcbb&is=69208b3b&hm=ffe8260e12c8ced1eb456c570621c49e63e38b5f6833502585f410f31604d9f0&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101250254667957/IMG_1861.webp?ex=6921dcbb&is=69208b3b&hm=a69d506ed2315c41049d1a030eabedc7a208b9dbab5a206803f216d5201c48cd&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 134,
+                "health": 1479,
+                "speed": 1592
+            },
+            "evo_2": {
+                "attack": 257,
+                "health": 1662,
+                "speed": 1690
+            },
+            "evo_3": {
+                "attack": 499,
+                "health": 1770,
+                "speed": 1799
+            },
+            "evo_4": {
+                "attack": 589,
+                "health": 1931,
+                "speed": 2001
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jaewoo": {
+        "id": "jaewoo",
+        "name": "Jaewoo",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101597396369510/IMG_1862.png?ex=6921dd0e&is=69208b8e&hm=dcd30fe07c400beb7ac9b250aff7e8bcf84c551746e75fafbc6c970985545b6f&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101598080176148/IMG_1864.png?ex=6921dd0e&is=69208b8e&hm=608e511db5b2877db4187c2e0b6dd304fc56dcf68b26e1a04d900468d5b448ff&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101598440624209/IMG_1865.jpg?ex=6921dd0e&is=69208b8e&hm=e2ad0b104cb3925ab116dc2c283c7acca30f1736948f3885ee496687fcad1a1c&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439101598721769663/IMG_1863.jpg?ex=6921dd0e&is=69208b8e&hm=1b0439d4006879700747aa232b1e5ac34d9acd27d0a63c4812337778878c2103&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 328,
+                "health": 1579,
+                "speed": 1692
+            },
+            "evo_2": {
+                "attack": 459,
+                "health": 1762,
+                "speed": 1790
+            },
+            "evo_3": {
+                "attack": 555,
+                "health": 1870,
+                "speed": 1899
+            },
+            "evo_4": {
+                "attack": 600,
+                "health": 2031,
+                "speed": 2101
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "wooseok": {
+        "id": "wooseok",
+        "name": "Wooseok",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102041010995250/IMG_1866.webp?ex=6921dd77&is=69208bf7&hm=125b6e6723a32ef94197ddd9f6f1db9bba050f2c04dda01b0f8c2e5882b3499a&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102041250074624/IMG_1867.webp?ex=6921dd77&is=69208bf7&hm=65bee06eee25bd6ae3bf0d01105b84cc94b13560f1bb9f550ba6a483c9211cda&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102041497669763/IMG_1868.jpg?ex=6921dd77&is=69208bf7&hm=66f9196423a65d1b4345f149ddc2e379c93e25bfb9149861b5cfa6f5ea9fa8d6&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102041786945717/IMG_1869.webp?ex=6921dd77&is=69208bf7&hm=e5030ba262777285e4623c02732f630c42465a660412ec0c840164c89f988d85&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 289,
+                "health": 1579,
+                "speed": 1792
+            },
+            "evo_2": {
+                "attack": 328,
+                "health": 1662,
+                "speed": 1890
+            },
+            "evo_3": {
+                "attack": 735,
+                "health": 1770,
+                "speed": 1999
+            },
+            "evo_4": {
+                "attack": 945,
+                "health": 1931,
+                "speed": 2201
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hyungjae": {
+        "id": "hyungjae",
+        "name": "Hyungjae",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://static.wikia.nocookie.net/lookism/images/b/ba/Hyungjae_Lee.png/revision/latest?cb=20240111163003",
+            "evo_2": "",
+            "evo_3": "",
+            "evo_4": ""
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 498,
+                "health": 1579,
+                "speed": 1892
+            },
+            "evo_2": {
+                "attack": 588,
+                "health": 1662,
+                "speed": 1990
+            },
+            "evo_3": {
+                "attack": 634,
+                "health": 1770,
+                "speed": 2099
+            },
+            "evo_4": {
+                "attack": 899,
+                "health": 1888,
+                "speed": 2301
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "eugene": {
+        "id": "eugene",
+        "name": "Eugene",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://static.wikia.nocookie.net/lookism/images/3/35/Eu.jpg/revision/latest?cb=20230813171559",
+            "evo_2": "https://tse3.mm.bing.net/th/id/OIP.URufaPayDnIoSswPSibt3QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "evo_3": "https://tse1.mm.bing.net/th/id/OIP.4xvUU7iBEA-lf0JxN-lqtQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "evo_4": "https://i.pinimg.com/736x/3a/d2/2b/3ad22b5606f6e6a98b6189646f5dba42.jpg"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 128,
+                "health": 1279,
+                "speed": 1392
+            },
+            "evo_2": {
+                "attack": 238,
+                "health": 1462,
+                "speed": 1490
+            },
+            "evo_3": {
+                "attack": 378,
+                "health": 1570,
+                "speed": 1599
+            },
+            "evo_4": {
+                "attack": 477,
+                "health": 1731,
+                "speed": 1801
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "min_jihoon": {
+        "id": "min_jihoon",
+        "name": "Min Jihoon",
+        "rarity": "A",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438260018880188506/Min_Jihoon_evo_1.jpg?ex=69221906&is=6920c786&hm=f1b15178b93c03e910c710da2006edeb252cd6d670479050f46a221aac33dbfe&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438260019433967686/Min_Jihoon_evo_2.webp?ex=69221906&is=6920c786&hm=1b5fc952233a6d5c3da461aed902de338eebc41bf14016be66bae9663752c4ef&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438260020377813092/Min_Jihoon_evo_3.jpg?ex=69221906&is=6920c786&hm=d55726ad46d8ab37020529525d307599ee52bbbfe6171e715b0e7f6b2c285c7e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438260020948107264/Min_Jihoon_evo_4.jpg?ex=69221906&is=6920c786&hm=522ba5bc0724364002a924abf5352d233e619af1635c5b9318b5da5787c6b226&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 457,
+                "health": 1579,
+                "speed": 1682
+            },
+            "evo_2": {
+                "attack": 567,
+                "health": 1752,
+                "speed": 1789
+            },
+            "evo_3": {
+                "attack": 638,
+                "health": 1864,
+                "speed": 1889
+            },
+            "evo_4": {
+                "attack": 824,
+                "health": 2002,
+                "speed": 2098
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "noh_bakgu": {
+        "id": "noh_bakgu",
+        "name": "Noh Bakgu",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437777574137692242/7ac43bc6a5cf9d46e62901bf10da21be.jpg?ex=6921a936&is=692057b6&hm=805a66c95665d73de1e08252390114736aefee9e7d61f7a34b0232b0dd8dc744&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437777574469173442/17818f1acb770a6e7ca6bc86d7ec48be.jpg?ex=6921a936&is=692057b6&hm=6c03729da6a96669f448dc13be52979540ad1ab3b0292a09e65f341de43f3f33&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437777574838407168/cc379063e45e60b2eb445b8abe6d538d.jpg?ex=6921a936&is=692057b6&hm=c48f78e81498c061aaacfdd1f7a9445495c52db4838db07bb51d07fceb84846b&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437777575106576394/75287ec9bb5e9dc4d6f82912c93bdcac.jpg?ex=6921a936&is=692057b6&hm=4be4fb0ef6d649cc578fc64b44ecb5dc76956d2c6eccbae08c2130f1baab13a1&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 799,
+                "health": 3971,
+                "speed": 1992
+            },
+            "evo_2": {
+                "attack": 944,
+                "health": 4062,
+                "speed": 2090
+            },
+            "evo_3": {
+                "attack": 1140,
+                "health": 4170,
+                "speed": 2199
+            },
+            "evo_4": {
+                "attack": 1367,
+                "health": 4378,
+                "speed": 2403
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "bongae_choi": {
+        "id": "bongae_choi",
+        "name": "Bongae Choi",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://media.discordapp.net/attachments/1437394638964265030/1437778769602416680/ChoiBongae.webp?ex=6921aa53&is=692058d3&hm=80dfcc365a2b07f20a8a6649d9ead9a27878a5bc930341a0a2bd547237450523&=&format=webp&width=343&height=800",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437778769938087976/Ep._440_-_Bongae_shows_what_Charles_did_to_him.webp?ex=6921aa53&is=692058d3&hm=6e8472913275dfa84ba619fe48768d40ae31ffa6c99bab8047b905987ad4cbf7&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437778770495803464/BongaeLineman.webp?ex=6921aa53&is=692058d3&hm=dc09d05a023892d5d9399879b93e74374004927d45018224d0301af1a299e8cd&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437778771242385530/Ep._468_-_Jake_remembering_what_Bongae_said.png?ex=6921aa53&is=692058d3&hm=e602708b2c758675b3f11b4d8cc7d5229fa6ec8fe471e4e7a17dc2f8063b47cb&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 899,
+                "health": 4071,
+                "speed": 2092
+            },
+            "evo_2": {
+                "attack": 1044,
+                "health": 4162,
+                "speed": 2190
+            },
+            "evo_3": {
+                "attack": 1240,
+                "health": 4270,
+                "speed": 2299
+            },
+            "evo_4": {
+                "attack": 1357,
+                "health": 4478,
+                "speed": 2603
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "minsik_choi": {
+        "id": "minsik_choi",
+        "name": "Minsik Choi",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780126946299974/Minsik_Choi_Young_Infobox.webp?ex=6921ab96&is=69205a16&hm=d034121eb4e85b3a74d5ee9750ff6da7f423b4a7b1a3741b56ca3c0328859545&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780127210803290/images_12_8.jpg?ex=6921ab96&is=69205a16&hm=22ec637d2bfa2ee2e830e4019483928c1776d5850388d034e2a89a9d7e72a65e&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780128200392714/Minsik_Choi_Old_Infobox.webp?ex=6921ab97&is=69205a17&hm=717a4a2e4fa7593ccc8d87f7d7606523bc2acdc041aecf44ace0f09d9f393c6c&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780128477483161/images_12_9.jpg?ex=6921ab97&is=69205a17&hm=853a1a3333b23b0384aac578d5fd018719b0aa326c750593ef73f371b970dee1&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 976,
+                "health": 4162,
+                "speed": 2156
+            },
+            "evo_2": {
+                "attack": 1154,
+                "health": 4289,
+                "speed": 2380
+            },
+            "evo_3": {
+                "attack": 1340,
+                "health": 4456,
+                "speed": 2400
+            },
+            "evo_4": {
+                "attack": 1487,
+                "health": 4589,
+                "speed": 2706
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gon_kwon": {
+        "id": "gon_kwon",
+        "name": "Gon Kwon",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437782996412534894/Ep._306_-_Jerry_with_Eden.png?ex=6921ae43&is=69205cc3&hm=7c3878a44ae8661de380fee9cce555ac7a09b85f2d2f679e23d2060eaaf41056&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437782997242744894/Ep._273_-_Jerry_ready_to_fight.webp?ex=6921ae43&is=69205cc3&hm=d85a3b96222046252c3c3f48af785e3e49a4a7a4d918c86dcdfd8001eca4b220&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437782997708308490/Big_deal_executives_vs_the_mutiny.PNG.webp?ex=6921ae43&is=69205cc3&hm=c1ba0592c6cb5908c7a85765b4343c89a14c2aa1d558c2c651d310b1ab121b18&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437782998060634163/Ep._321_-_Jerry_vs_Old_Face_past.webp?ex=6921ae43&is=69205cc3&hm=a4f51917372346a2e8cce758dc229b542135e80ed26db71b10998e1272526c00&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1176,
+                "health": 4362,
+                "speed": 2356
+            },
+            "evo_2": {
+                "attack": 1354,
+                "health": 4489,
+                "speed": 2580
+            },
+            "evo_3": {
+                "attack": 1540,
+                "health": 4656,
+                "speed": 2600
+            },
+            "evo_4": {
+                "attack": 1687,
+                "health": 4789,
+                "speed": 2906
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "taegeuk_han": {
+        "id": "taegeuk_han",
+        "name": "Taegeuk Han ",
+        "rarity": "S",
+        "images": {
+            "evo_1": "",
+            "evo_2": "",
+            "evo_3": "",
+            "evo_4": ""
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1270,
+                "health": 4458,
+                "speed": 2449
+            },
+            "evo_2": {
+                "attack": 1489,
+                "health": 4498,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1655,
+                "health": 4800,
+                "speed": 2709
+            },
+            "evo_4": {
+                "attack": 1809,
+                "health": 4906,
+                "speed": 3000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "byeon_kim": {
+        "id": "byeon_kim",
+        "name": "Byeon Kim",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437765438925967380/IMG_1761.jpg?ex=69219de9&is=69204c69&hm=80798f34123fb3b08cb354129eb7408b640e595834db04b3ab6344b3e6e1ea94&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437765439420760064/IMG_1762.webp?ex=69219de9&is=69204c69&hm=f4777ce66cbe8b40b7016c5071256bda844a6e99a978d5b6a9981a6a04d7f707&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437765439643189361/IMG_1760.webp?ex=69219de9&is=69204c69&hm=e3655456cd3ae1155a33d55f0f6cbdc3cff62081c55a8bbc854ea589cb45e402&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437765439920017428/IMG_1763.webp?ex=69219de9&is=69204c69&hm=8b7ea4c8dd22bff5c53e59b50ef7d9338933996ff6a454b2b1f53f374e3cb4bb&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1086,
+                "health": 4258,
+                "speed": 2349
+            },
+            "evo_2": {
+                "attack": 1356,
+                "health": 4378,
+                "speed": 2567
+            },
+            "evo_3": {
+                "attack": 1455,
+                "health": 4456,
+                "speed": 2577
+            },
+            "evo_4": {
+                "attack": 1907,
+                "health": 4599,
+                "speed": 3012
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "max_kang": {
+        "id": "max_kang",
+        "name": "Max Kang",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100873786654921/IMG_1854.webp?ex=6921dc61&is=69208ae1&hm=b07397e26da6070faca09cba511f42895adea22f13406a1a435230e51b3166b7&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100874055094393/IMG_1855.png?ex=6921dc61&is=69208ae1&hm=eb02e7080304843ed1b505f02db1c5c392e4ad2d5481ca01eb69225debee5ecb&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100874335977562/IMG_1856.jpg?ex=6921dc61&is=69208ae1&hm=4e8b8440bde51b8fecebe6730a4d0b87d0a9239f0a25f0f621921ae37f620175&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100874793287792/IMG_1857.webp?ex=6921dc61&is=69208ae1&hm=481ded4899ae584e5fdfbe88068bda516a49d6b826fcc9c618e9cb439a9cc398&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1055,
+                "health": 4000,
+                "speed": 2000
+            },
+            "evo_2": {
+                "attack": 1098,
+                "health": 4154,
+                "speed": 2167
+            },
+            "evo_3": {
+                "attack": 1234,
+                "health": 4246,
+                "speed": 2300
+            },
+            "evo_4": {
+                "attack": 1489,
+                "health": 4578,
+                "speed": 2557
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "ethan_hwang": {
+        "id": "ethan_hwang",
+        "name": "Ethan Hwang",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438440180095909929/ethan_1.webp?ex=6922180f&is=6920c68f&hm=19cd241d20cb96562bbd829f14b7859e3e5c12ec9d21a722e7328a036aa990d0&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438440180468940903/ethan_2.webp?ex=6922180f&is=6920c68f&hm=1a972710616da5cd86978f252706f69010950ca0ad53ad8a8d9058c0b4e34d06&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438440181135966278/ethan_3.webp?ex=69221810&is=6920c690&hm=e8674ec2d3901605f890c410bde9871540e4e906bf25ed9b4bb02a70a74707c6&",
+            "evo_4": "https://static.wikia.nocookie.net/lookism/images/3/39/Ethanhwang.PNG/revision/latest?cb=20220703015738"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1100,
+                "health": 4300,
+                "speed": 2400
+            },
+            "evo_2": {
+                "attack": 1419,
+                "health": 4456,
+                "speed": 2479
+            },
+            "evo_3": {
+                "attack": 1487,
+                "health": 4568,
+                "speed": 2569
+            },
+            "evo_4": {
+                "attack": 1579,
+                "health": 4689,
+                "speed": 2709
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hyung_sangjin": {
+        "id": "hyung_sangjin",
+        "name": "Hyung Sangjin",
+        "rarity": "S",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736322597159025/Hyun_Sangjin_S_evo_1.webp?ex=692dcb0d&is=692c798d&hm=3a37e1b27392c806d194a0f492f626c9b74bc39c36712c2ef1c1d32cef2e6303&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736322890633217/Hyun_Sangjin_S_evo_2.jpg?ex=692dcb0d&is=692c798d&hm=23f817b2c499176ddcf3304f62d25f79d92e322080289f7b409845f61c187b28&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736323142422660/Hyun_Sangjin_S_evo_3.webp?ex=692dcb0d&is=692c798d&hm=b064fde759606b669e74501257377a759e9432f888f4d617b09180b56ce2d0ea&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736323406659664/Hyun_Sangjin_S_evo_4.webp?ex=692dcb0d&is=692c798d&hm=fe6fc94633943b0beaf06412d82758a287660aef8446efe71bd6860c40e2d527&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1009,
+                "health": 4202,
+                "speed": 2200
+            },
+            "evo_2": {
+                "attack": 1154,
+                "health": 4300,
+                "speed": 2308
+            },
+            "evo_3": {
+                "attack": 1249,
+                "health": 4407,
+                "speed": 2400
+            },
+            "evo_4": {
+                "attack": 1487,
+                "health": 4589,
+                "speed": 2606
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jaesu_noh": {
+        "id": "jaesu_noh",
+        "name": "Jaesu Noh",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780570322243767/Ep._456_-_Jaesu_arrives.webp?ex=6921ac00&is=69205a80&hm=2f550c45dadda4749643972a62820bc56a727e2c93a38a15b410ecb676a69877&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780570678493304/Ep._452_-_Team_Sera_Shin.webp?ex=6921ac00&is=69205a80&hm=25ae3cb3b3d43fb7379a5d9d8450fb0c3e6fce5eb144eac677a702aebc4070e8&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780571068567622/Screenshot_2024-03-15_034020.webp?ex=6921ac00&is=69205a80&hm=79bc8614e30036700c1251cd4413ace9d346ffe8dad43e7c3e2d27c2cb497b32&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780571429539981/images_12_8.jpg?ex=6921ac00&is=69205a80&hm=c147645cc892caf38687eb6e9b1f1a3ace9f190375e534c73c6d89e280fbbf9c&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1370,
+                "health": 4558,
+                "speed": 2549
+            },
+            "evo_2": {
+                "attack": 1480,
+                "health": 4700,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1555,
+                "health": 4800,
+                "speed": 2709
+            },
+            "evo_4": {
+                "attack": 1677,
+                "health": 4923,
+                "speed": 2900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gwang_yu": {
+        "id": "gwang_yu",
+        "name": "Gwang Yu",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780995217690704/Ep._456_-_Zack_escapes_Gwang.webp?ex=6921ac65&is=69205ae5&hm=d43b89aaf19079135ac5a1d278ed2c9b180fc1996a14a31f67af1af54aba3ad6&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780995578269726/Gwang-yu.png?ex=6921ac66&is=69205ae6&hm=0812be7c72a7d6d61273adbaa28a55e3858edd4269a9597f02dca68f7f8750cb&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780995926528011/images_12_8.jpg?ex=6921ac66&is=69205ae6&hm=1e575ff35368abc237cf523a212c059db758b97e62cff61a51e476212aa7376a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437780996329177219/the-countryside-kwaks-vs-team-shin-sera-gen-0-v0-lnoymyxg53cb1.png?ex=6921ac66&is=69205ae6&hm=8579d5eb82aacdfeca144726ae376dafaf8c691fa87b0eeab723a81ab8cef238&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1470,
+                "health": 4758,
+                "speed": 2549
+            },
+            "evo_2": {
+                "attack": 1580,
+                "health": 4900,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1655,
+                "health": 5000,
+                "speed": 2807
+            },
+            "evo_4": {
+                "attack": 1777,
+                "health": 5150,
+                "speed": 2900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "shigeaki_kojima": {
+        "id": "shigeaki_kojima",
+        "name": "Shigeaki Kojima",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103451626999888/IMG_1882.webp?ex=6921dec8&is=69208d48&hm=3d94c0edd8b39b29ef33477cfdbcf403ec21371bef14d1640cd67704c73b53d1&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103452352348313/IMG_1883.png?ex=6921dec8&is=69208d48&hm=582b1ebd05368eb0cf27819456c23b57a16fe5db677eee63deb609a0d30c707b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103452797210726/IMG_1884.png?ex=6921dec8&is=69208d48&hm=6ab79814d7b734ba4937882aafa9d03d6592f9c29d99ed9a7db36a9ba171ea01&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103453174431854/IMG_1885.webp?ex=6921dec8&is=69208d48&hm=d27e87f11b767881539294aca9d0a343665225409884e8e30b4ecff4097ece79&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1500,
+                "health": 4800,
+                "speed": 2600
+            },
+            "evo_2": {
+                "attack": 1600,
+                "health": 5000,
+                "speed": 2700
+            },
+            "evo_3": {
+                "attack": 1700,
+                "health": 5090,
+                "speed": 2900
+            },
+            "evo_4": {
+                "attack": 1860,
+                "health": 5150,
+                "speed": 3070
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hiroaki_kojima": {
+        "id": "hiroaki_kojima",
+        "name": "Hiroaki Kojima",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103674398937202/IMG_1886.webp?ex=6921defd&is=69208d7d&hm=34680ffa82028ecf62d3b74b13a552abeda01e879fb108a889f95725b114ceaa&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103674713636977/IMG_1887.webp?ex=6921defd&is=69208d7d&hm=d641e41e58a0e66218dc0504aeff4b966d5c5b0418ab51ded40c3452c853b301&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103675321553057/IMG_1888.jpg?ex=6921defd&is=69208d7d&hm=0c8f6e80d591ecb63a1f4246e37c5e32512bcac88639bc86793105c89bed9dee&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439103675938246736/IMG_1889.jpg?ex=6921defd&is=69208d7d&hm=2c5dc1ab300be96b91883f4fbdcf6a395caa87021d94d22b0f9f47ef57f6bdd4&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1557,
+                "health": 4880,
+                "speed": 2668
+            },
+            "evo_2": {
+                "attack": 1669,
+                "health": 5137,
+                "speed": 2798
+            },
+            "evo_3": {
+                "attack": 1780,
+                "health": 5209,
+                "speed": 3088
+            },
+            "evo_4": {
+                "attack": 1900,
+                "health": 5308,
+                "speed": 3189
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "kenta": {
+        "id": "kenta",
+        "name": "Kenta",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439096865818673182/IMG_1814.webp?ex=6921d8a5&is=69208725&hm=9401d8b560ac9d7a7db1ee4a9404927376376fc0dbe9b08eb54d08a3bfb1e5dc&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439096866095632465/IMG_1815.jpg?ex=6921d8a6&is=69208726&hm=4b47e28f12f72009f1e792e97c892f9bb5529451b339109b92ac9cb3a5d7b732&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439096866334834828/IMG_1816.jpg?ex=6921d8a6&is=69208726&hm=bf09fbcb21d2939ceec1c5d63e1d124712c145e4eed8e470cd4735bb87701bdb&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439096866607468574/IMG_1817.jpg?ex=6921d8a6&is=69208726&hm=430a1f9c7b72da6de3c5e62f029621ae6a4afd5c6748de80a39c2e9ec5614f53&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1270,
+                "health": 4458,
+                "speed": 2449
+            },
+            "evo_2": {
+                "attack": 1489,
+                "health": 4628,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1655,
+                "health": 4800,
+                "speed": 2709
+            },
+            "evo_4": {
+                "attack": 1809,
+                "health": 4989,
+                "speed": 3000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "taegon_wi": {
+        "id": "taegon_wi",
+        "name": "Taegon Wi",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736232151060673/IMG_1839.webp?ex=692dcaf7&is=692c7977&hm=df2d1a3ff9d8900d0a3a8bfff1f0aaa7cec79f0038df7422f9fe9621c249c37d&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736232415297686/IMG_1841.webp?ex=692dcaf7&is=692c7977&hm=403ffdd8d1aefb4dbb25b699514b856a58ae3a55dab666814975c3617d412f6a&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736232658698250/IMG_1840.webp?ex=692dcaf7&is=692c7977&hm=ee410c435afa8ed4758de8a8f84bf9e3ea8e146d1fc1150731253ebe77c11d42&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1439586635900518472/1444736232897777715/IMG_1838.webp?ex=692dcaf7&is=692c7977&hm=38e6ff0a910c8bda3c8d9f502973c17b9bf78c471b4d8dc2223679d9e2f97452&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1607,
+                "health": 4900,
+                "speed": 2700
+            },
+            "evo_2": {
+                "attack": 1700,
+                "health": 5200,
+                "speed": 2900
+            },
+            "evo_3": {
+                "attack": 1807,
+                "health": 5308,
+                "speed": 3100
+            },
+            "evo_4": {
+                "attack": 2000,
+                "health": 5400,
+                "speed": 3246
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jibeom": {
+        "id": "jibeom",
+        "name": "Jibeom",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100485326995456/IMG_1850.webp?ex=6921dc04&is=69208a84&hm=af5d56d7abdb37cbdc37e7d1111241bb4555ba95b8bae65a1168e6cd0b06edd1&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100485641572593/IMG_1851.jpg?ex=6921dc04&is=69208a84&hm=888a7a47366b828663eeae4ae8660b5e8c0d7f2d667aec1580b752906b33b9c8&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100485884706847/IMG_1852.jpg?ex=6921dc05&is=69208a85&hm=f2d25c324e0c8f87dd46ccff08bb039f24b3a4650a426f02fefe2268fb4d19e4&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100486488952832/IMG_1853.webp?ex=6921dc05&is=69208a85&hm=0b82675f8cf3f6eeb1303d5f4c043c0d52fac1278b37bb2272e63ecc26f442b5&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1678,
+                "health": 4967,
+                "speed": 2797
+            },
+            "evo_2": {
+                "attack": 1756,
+                "health": 5297,
+                "speed": 2875
+            },
+            "evo_3": {
+                "attack": 1885,
+                "health": 5396,
+                "speed": 3071
+            },
+            "evo_4": {
+                "attack": 2000,
+                "health": 5437,
+                "speed": 3186
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "brad_lee": {
+        "id": "brad_lee",
+        "name": "Brad Lee",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100148788625408/IMG_1846.jpg?ex=6921dbb4&is=69208a34&hm=3fad80b7665713906b8843af7cf21d90242352018eb2da9f05bd7193e6d9b603&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100148985626755/IMG_1848.webp?ex=6921dbb4&is=69208a34&hm=d7050971ce98bc61c71a8182d52ded137550776653eff2c7df9c97dea2561391&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100149212254328/IMG_1847.jpg?ex=6921dbb4&is=69208a34&hm=0e4e369a6d332427444d6aa0bec6a34fdac938094cbf52ee31c82e0ffee3b0c5&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439100149514240030/IMG_1849.webp?ex=6921dbb4&is=69208a34&hm=dab35c5791074c5f054c56b30efa3fb586ed8dbb450c0f79e32af7e74fee7bd2&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1879,
+                "health": 5100,
+                "speed": 2835
+            },
+            "evo_2": {
+                "attack": 1982,
+                "health": 5226,
+                "speed": 2925
+            },
+            "evo_3": {
+                "attack": 2012,
+                "health": 5346,
+                "speed": 3071
+            },
+            "evo_4": {
+                "attack": 2171,
+                "health": 5437,
+                "speed": 3186
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "mary_kim": {
+        "id": "mary_kim",
+        "name": "Mary Kim",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439104050699178136/IMG_1893.webp?ex=6921df56&is=69208dd6&hm=7c87524d0b3c5393fff8b3f2eac33b01bad7ecce9e6c84a8429817592591aa61&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439104051018076241/IMG_1891.jpg?ex=6921df57&is=69208dd7&hm=acd96c83e6024f8cd3a0a5b5e8c31ea70c8687e2f27f65657bcfb0fc2909b684&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439104051320193034/IMG_1890.jpg?ex=6921df57&is=69208dd7&hm=206bbe8632c967622db72f2cae8ba23f44ac21bc6cb3553310f0560727fde968&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439104051617726584/IMG_1892.webp?ex=6921df57&is=69208dd7&hm=67e02de4aefc6c4e13d46ce5a1a6259dc24a6fb9cc3c086e485971ad56139ad1&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1697,
+                "health": 4987,
+                "speed": 2726
+            },
+            "evo_2": {
+                "attack": 1799,
+                "health": 5217,
+                "speed": 2912
+            },
+            "evo_3": {
+                "attack": 1837,
+                "health": 5324,
+                "speed": 3100
+            },
+            "evo_4": {
+                "attack": 2015,
+                "health": 5400,
+                "speed": 3209
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jason_yoon": {
+        "id": "jason_yoon",
+        "name": "Jason Yoon",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437786533192142988/Jason_Yoon_evo_1.jpg?ex=69225a4e&is=692108ce&hm=1a596e4f11f91da0b5f2b6afc48414e154aa87079397054191fdaa52dd36644b&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437786533699649626/Jason_Yoon_evo_2.jpg?ex=69225a4e&is=692108ce&hm=e07f2cb1b4b14f4d42c2f15246ab541e4bce204c96e5dc562456611916f42556&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437786534081200179/Jason_Yoon_evo_3.jpg?ex=69225a4e&is=692108ce&hm=c9323f85987928870ec613056c35f1a9d8f9495323a6d996caf2b9ef431be538&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437786534458822866/Jason_Yoon_evo_4.jpg?ex=69225a4e&is=692108ce&hm=951517bd768dfebd74ae25e5c1b25e6722a36ecc104c852333c8f1f0dbd40e32&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1270,
+                "health": 4458,
+                "speed": 2449
+            },
+            "evo_2": {
+                "attack": 1489,
+                "health": 4545,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1655,
+                "health": 4800,
+                "speed": 2709
+            },
+            "evo_4": {
+                "attack": 1809,
+                "health": 4966,
+                "speed": 3000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "kang_jinchan": {
+        "id": "kang_jinchan",
+        "name": "Kang Jinchan",
+        "rarity": "SS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438264168581959762/Kang_Jinchan_SS_evo_1.jpg?ex=69221ce3&is=6920cb63&hm=d2ee79b2b89b9c67dfae96619ac3ba78a2c97d6293b5e12cf92f1760a16bfc33&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438264168938737684/Kang_Jinchan_SS_evo_2.jpg?ex=69221ce3&is=6920cb63&hm=cae9ebd6ae2bfa36c408b669b8228ad2b2e216be301cbbcc455a4278065b553b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438264169286860952/Kang_Jinchan_SS_evo_3.jpg?ex=69221ce3&is=6920cb63&hm=ef3d1f7817a5b9eefd9ef47db4c52e4890b4a1f7117f0104b685913b636d163f&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438264169840381972/Kang_Jinchan_SS_evo_4.jpg?ex=69221ce3&is=6920cb63&hm=1a053e7ad013490a690ffc63ff0ae499c02111690557d517c2346008a527ee46&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 1370,
+                "health": 4558,
+                "speed": 2549
+            },
+            "evo_2": {
+                "attack": 1480,
+                "health": 4700,
+                "speed": 2678
+            },
+            "evo_3": {
+                "attack": 1555,
+                "health": 4800,
+                "speed": 2709
+            },
+            "evo_4": {
+                "attack": 1677,
+                "health": 4954,
+                "speed": 2900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "yujae_seon": {
+        "id": "yujae_seon",
+        "name": "Yujae Seon",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437741960592101396/IMG_1720.webp?ex=692230cb&is=6920df4b&hm=a053df24fe50535fc9055f740e03b07021b504a73850dfc4df64ae3ddd51a36e&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437741961812377622/IMG_1721.jpg?ex=692230cb&is=6920df4b&hm=2bac97aeb5e55cf870c9dcd82ec6de32ec6956443cc3858b239346fa256a23c4&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437741962664087572/IMG_1723.jpg?ex=692230cb&is=6920df4b&hm=4736251b3d8abd41ab519e178d359756916746295ad6329dd3b6c5274939e7ac&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437741963402149981/IMG_1722.jpg?ex=692230cc&is=6920df4c&hm=4b899c3b4fe693074f73b667150c65c4fafdc3b300f1e78ea141d1a779966042&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2100,
+                "health": 6200,
+                "speed": 2800
+            },
+            "evo_2": {
+                "attack": 2300,
+                "health": 6500,
+                "speed": 3000
+            },
+            "evo_3": {
+                "attack": 2500,
+                "health": 6900,
+                "speed": 3250
+            },
+            "evo_4": {
+                "attack": 2800,
+                "health": 7500,
+                "speed": 3600
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gentleman": {
+        "id": "gentleman",
+        "name": "Gentleman",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437779600108421241/the-gentleman-is-the-10th-genius-v0-pjvstd4hl21f1.jpg?ex=692253d9&is=69210259&hm=e35024d2a793131f8d8937e9b98be4c656d65213cba176dabb028544df2791c2&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437779600838099024/Gentleman555.webp?ex=692253d9&is=69210259&hm=5d695c6116b59cc95d1f26a82d825f5435df794cc7d6323a84fd99c810155405&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437779601290952854/images_12_8.jpg?ex=692253d9&is=69210259&hm=2a756f55000b6bf5c3ca3c535a87564f05dc6c9fe1a87f1036544f69891672a2&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437779601962307696/YQW3L1zBB0PSg_C0HtLE089Q9e2p1uzMe6W1D7VTOWLI-lQsmZ_Th5f9S96iRWLDGshphJQ8-dCT4suEyCByOw.webp?ex=692253d9&is=69210259&hm=9f35becda3347aa146710ad0df79f3abb901f564a74f81ae759f54cb0556d172&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2250,
+                "health": 6000,
+                "speed": 3100
+            },
+            "evo_2": {
+                "attack": 2450,
+                "health": 6300,
+                "speed": 3300
+            },
+            "evo_3": {
+                "attack": 2700,
+                "health": 6700,
+                "speed": 3600
+            },
+            "evo_4": {
+                "attack": 3000,
+                "health": 7200,
+                "speed": 4000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "mujin_jin": {
+        "id": "mujin_jin",
+        "name": "Mujin Jin",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785259897786408/Mujin_Jin_Smile.jpg?ex=6922591e&is=6921079e&hm=c1217b12c57454d096da7b8cde24b4209bc2d9221358eb5f3c85aeb38fec9065&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785260262822022/Jin_Mujin_Shaded_Icon.jpg?ex=6922591e&is=6921079e&hm=6a6e207b9e59cfa62eb4fce08681989474a02bb2a1394d01dcd8db4e99937455&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785260774395915/where-is-mujin-v0-04ndnxb42cmc1.jpg?ex=6922591e&is=6921079e&hm=a46426046d6b1ba2da8a03878ca85e6604275aad51dd1bc12d6051e2b22c41ae&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785261240094851/76fe54f62fd3634b2038d92d97642161.jpg?ex=6922591f&is=6921079f&hm=bf6aeaf71d6ca7eb09cac8f0cbef490736885389da0ee12a2594e2d68d3d6e3e&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3000,
+                "health": 8000,
+                "speed": 4000
+            },
+            "evo_2": {
+                "attack": 3500,
+                "health": 8500,
+                "speed": 4200
+            },
+            "evo_3": {
+                "attack": 4000,
+                "health": 9500,
+                "speed": 4500
+            },
+            "evo_4": {
+                "attack": 5000,
+                "health": 11000,
+                "speed": 5000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "xiaolung": {
+        "id": "xiaolung",
+        "name": "Xiaolung",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097056361709633/IMG_1818.webp?ex=69228193&is=69213013&hm=5c5c6ce3a7405494d58ac323a1ccc6bf421dbf1d39c07adc046fd43b45c50216&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097056655572992/IMG_1819.jpg?ex=69228193&is=69213013&hm=3c59aa13d58110fb1de60604dc02fd03eb35b54fe22d0c0adb40607ffc7e8bb7&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097056927940789/IMG_1820.jpg?ex=69228193&is=69213013&hm=0db0f32b95a874bb63f9d620b4a5764a1e0e37e992089faff1f7b0ed5b280e37&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097057217613965/IMG_1821.webp?ex=69228193&is=69213013&hm=6fc04f8d02ae99a6b8717f07dfe43a8e5716d14d8836d38396b84ba5b9620231&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2400,
+                "health": 5800,
+                "speed": 2700
+            },
+            "evo_2": {
+                "attack": 2650,
+                "health": 6200,
+                "speed": 2900
+            },
+            "evo_3": {
+                "attack": 2900,
+                "health": 6600,
+                "speed": 3100
+            },
+            "evo_4": {
+                "attack": 3200,
+                "health": 7200,
+                "speed": 3400
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "manager_kim": {
+        "id": "manager_kim",
+        "name": "Manager Kim",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439098740362182798/IMG_1834.png?ex=69228324&is=692131a4&hm=b01299d4614e6df081c882ee9645b188a1f08ab6fce839e12cb91fe09028981b&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439098740899319880/IMG_1835.jpg?ex=69228324&is=692131a4&hm=b6c9767f1495a81b5b5f2a98ffd0a1ea516b95a1c4dcbb7716eed36dcb7517ef&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439098741268414534/IMG_1837.jpg?ex=69228325&is=692131a5&hm=be31f6aac3a112bdf7ba6ca35a688773c6ad20acc069f7cdfd7d180b76cc969a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439098741679198258/IMG_1836.jpg?ex=69228325&is=692131a5&hm=4f498629e2a61135e7bcd80ea68b072b810a4aaba894abcc0c9a946937034c16&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2600,
+                "health": 6200,
+                "speed": 3500
+            },
+            "evo_2": {
+                "attack": 2850,
+                "health": 6500,
+                "speed": 3800
+            },
+            "evo_3": {
+                "attack": 3100,
+                "health": 7000,
+                "speed": 4100
+            },
+            "evo_4": {
+                "attack": 3500,
+                "health": 7800,
+                "speed": 4600
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "taejin_cheon": {
+        "id": "taejin_cheon",
+        "name": "Taejin Cheon",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102870623617135/IMG_1874.webp?ex=692286fd&is=6921357d&hm=0152aec7239e1bb3173fbb63c66ef78d210b490cf6b0e5faff8bbda54c116593&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102870908571718/IMG_1876.jpg?ex=692286fd&is=6921357d&hm=8058a1acec61fc170a19708a72e2c4f490924da9565abd3d49cb6432ad14c6a5&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102871130996817/IMG_1877.jpg?ex=692286fd&is=6921357d&hm=b120886ca4616bdbf4292ab2ef3735ff4c76a5f443ae7c8663c184ac933f0feb&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439102871391174728/IMG_1875.webp?ex=692286fd&is=6921357d&hm=9c828d22fb3f44bc205f587718e13ab44aab987f8228f926ce8b5c7f8010b6cc&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2300,
+                "health": 6300,
+                "speed": 2800
+            },
+            "evo_2": {
+                "attack": 2550,
+                "health": 6600,
+                "speed": 3000
+            },
+            "evo_3": {
+                "attack": 2800,
+                "health": 7100,
+                "speed": 3200
+            },
+            "evo_4": {
+                "attack": 3150,
+                "health": 7800,
+                "speed": 3500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jerry_kwon": {
+        "id": "jerry_kwon",
+        "name": "Jerry Kwon",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437783579303215287/Jerry_Kwon_evo_1.jpg?ex=6922578e&is=6921060e&hm=df9272d6a067e06f1613e24f239e8a9129cc3abf5bee45aa5c092c27a4b829e0&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437783579659604071/Jerry_Kwon_evo_2.jpg?ex=6922578e&is=6921060e&hm=35c4842ec27f14133bb559a4652c478667cb8416fa26e738a9918bb3654970b2&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437783580028698734/Jerry_Kwon_evo_3.jpg?ex=6922578e&is=6921060e&hm=4174446f4b50c83bfaa48166b23de96c17f8f3ea39b1c7fe5cd6c87c8f2724ad&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437783580360179846/Jerry_Kwon_evo_4.jpg?ex=6922578e&is=6921060e&hm=31076295e3b478396568ad103cff9f5691301bfbfc4861ca5a008eb1de45aede&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2200,
+                "health": 7000,
+                "speed": 2200
+            },
+            "evo_2": {
+                "attack": 2400,
+                "health": 7500,
+                "speed": 2400
+            },
+            "evo_3": {
+                "attack": 2650,
+                "health": 8200,
+                "speed": 2600
+            },
+            "evo_4": {
+                "attack": 3000,
+                "health": 9000,
+                "speed": 2900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "zack_lee": {
+        "id": "zack_lee",
+        "name": "Zack Lee",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437788357303472200/Zack_Lee_evo_1.jpg?ex=69225c01&is=69210a81&hm=3c2eb3e694c5dbf783fc92236e1d9cbee095de507b55e24dc9adfa12572c2971&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437788357567709315/zack_lee_evo_2.jpg?ex=69225c01&is=69210a81&hm=d86de4d5be42882fb2547010e11458e7ce81ad11b37094127c30298bc2ca905a&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437788357844275301/Zack_Lee_evo_3.jpg?ex=69225c01&is=69210a81&hm=5843909489644c19c3b86d3ada3e561d4b36cf4642c0caab88498cc67c15981a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437788358112972900/Zack_Lee_evo_4.jpg?ex=69225c01&is=69210a81&hm=19f51318d2f7f0e036d814590fdacbaadf8013255f4be87b2beccf3bc62241e2&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2100,
+                "health": 6500,
+                "speed": 3200
+            },
+            "evo_2": {
+                "attack": 2350,
+                "health": 6800,
+                "speed": 3500
+            },
+            "evo_3": {
+                "attack": 2600,
+                "health": 7300,
+                "speed": 3800
+            },
+            "evo_4": {
+                "attack": 2900,
+                "health": 8000,
+                "speed": 4200
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jay": {
+        "id": "jay",
+        "name": "Jay",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790018855895081/Jay_evo_1.jpg?ex=69225d8d&is=69210c0d&hm=2fec302b010cf599e44290cab2920b8d2050c95c4cad758ee5b8b0bc821c7c7b&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790019233517598/Jay_evo_2.jpg?ex=69225d8d&is=69210c0d&hm=7443cf14008b52ffcdbd49f66f15faa92d28716ffde9bf9718423de46346de79&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790019543765032/Jay_evo_3.jpg?ex=69225d8d&is=69210c0d&hm=f5f34a88bbce4368f58262edf3c5415ea29fcb3bdd82d8ec83881bf12272e3df&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790019963064320/Jay_evo_4.jpg?ex=69225d8d&is=69210c0d&hm=b13f977e571b8d11cb067fbc9fdf68f6e53c5187cd4e1bfd3e936108bb2e1b90&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2300,
+                "health": 5800,
+                "speed": 2800
+            },
+            "evo_2": {
+                "attack": 2500,
+                "health": 6100,
+                "speed": 3000
+            },
+            "evo_3": {
+                "attack": 2800,
+                "health": 6500,
+                "speed": 3250
+            },
+            "evo_4": {
+                "attack": 3100,
+                "health": 7100,
+                "speed": 3500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "warren_chae": {
+        "id": "warren_chae",
+        "name": "Warren Chae",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790605177782312/Warren_Chae_evo_1.jpg?ex=69225e19&is=69210c99&hm=5dad79763f5e839db6d66adf876ab4098d51b6cec5c483a2e4bf0e795bc4bbe4&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790605496418314/Warren_Chae_evo_2.jpg?ex=69225e19&is=69210c99&hm=5e0d5f4752c2f4bae9c056f7a36702fd0b8a6b4e6ba8e13577bf17904c799f5e&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790605827637320/Warren_Chae_evo_3.jpg?ex=69225e19&is=69210c99&hm=eee433c46e451cdf5138c72b8029d10e97c2b7437f116f64b3f93a52d19d132e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437790606213648515/Warren_Chae_evo_4.jpg?ex=69225e19&is=69210c99&hm=ff89b1847462e02ece49de406a3bbd2667456c2e193b4a6f5a2ea62fe24b0634&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2200,
+                "health": 6000,
+                "speed": 3100
+            },
+            "evo_2": {
+                "attack": 2450,
+                "health": 6300,
+                "speed": 3350
+            },
+            "evo_3": {
+                "attack": 2700,
+                "health": 6800,
+                "speed": 3650
+            },
+            "evo_4": {
+                "attack": 3050,
+                "health": 7400,
+                "speed": 4000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "vasco": {
+        "id": "vasco",
+        "name": "Vasco",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437791718408720464/Vasco_evo_1.jpg?ex=69225f22&is=69210da2&hm=126cc0c56b8b06191caad7fdcc2353cbecf60ea4e521d1e575ddf1403bfd9831&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437791718748721283/Vasco_evo_2.jpg?ex=69225f22&is=69210da2&hm=e14d03171dccda141f0f92d3d6aa6c1ec51d21f1be2df1c11e36c50cc77cfa8b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437791719142854768/Vasco_evo_3.jpg?ex=69225f22&is=69210da2&hm=a88deb0a47767dcf191c5e58629c4e3a190f8cdddcf1415f165a6372071c46cf&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437791719407222804/Vasco_evo_4.jpg?ex=69225f22&is=69210da2&hm=a94c899758b1f761f3f2f7dd69679cc0350e581195d10f52ffa9021717d03459&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2600,
+                "health": 6000,
+                "speed": 2500
+            },
+            "evo_2": {
+                "attack": 2900,
+                "health": 6400,
+                "speed": 2700
+            },
+            "evo_3": {
+                "attack": 3300,
+                "health": 6900,
+                "speed": 2900
+            },
+            "evo_4": {
+                "attack": 3800,
+                "health": 7600,
+                "speed": 3200
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hudson_ahn": {
+        "id": "hudson_ahn",
+        "name": "Hudson Ahn",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437792766166827099/Hudson_Ahn_evo_1.jpg?ex=6922601c&is=69210e9c&hm=1b04bbc26f41d981946516396ef28d281a494edaf5a9742eeb38b88edeee8f13&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437792766464753767/Hudson_Ahn_evo_2.jpg?ex=6922601c&is=69210e9c&hm=835f661d471d73843697e3f6bcc26f8d88ed356d7c7e41e88975e069bcfc5ca2&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437792766817210499/Hudson_Ahn_evo_3.jpg?ex=6922601c&is=69210e9c&hm=23c8b2d37e6732d456cb22f6ccc88016e99c9a68a05e11567010a9785b55de0e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437792767190372463/Hudson_Ahn_evo_4.jpg?ex=6922601c&is=69210e9c&hm=f81504909f0596dc9c70f92c98569de3fbd35c652af64a6b01f311a2ec83d1c3&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2500,
+                "health": 5500,
+                "speed": 2200
+            },
+            "evo_2": {
+                "attack": 2800,
+                "health": 5800,
+                "speed": 2400
+            },
+            "evo_3": {
+                "attack": 3100,
+                "health": 6300,
+                "speed": 2600
+            },
+            "evo_4": {
+                "attack": 3600,
+                "health": 6900,
+                "speed": 2800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "mandeok_bang": {
+        "id": "mandeok_bang",
+        "name": "Mandeok Bang",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437793510102401046/Mandeok_BangSSS_evo_1.jpg?ex=692260cd&is=69210f4d&hm=50331400dea4546d0c76126cf563a00640468ef919bc6884f3cc54431b3cab84&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437793510861439077/Mandeok_BangSSS_evo_2.jpg?ex=692260cd&is=69210f4d&hm=e87143367545dedb349289132679fd52318928086ecc20fdb4bd53756bd79db5&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437793511465287700/Mandeok_BangSSS_evo_3.jpg?ex=692260ce&is=69210f4e&hm=b26c072a023416adba72dce63c9ea03f792aa24d4bd070998e1a1f3f31f88389&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437793511868072068/Mandeok_BangSSS_evo_4.jpg?ex=692260ce&is=69210f4e&hm=9ffd0c085bf3b8e39edea442c77e6ac16d4755f8e3dc3a2ac92790e739174baf&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2400,
+                "health": 6800,
+                "speed": 2400
+            },
+            "evo_2": {
+                "attack": 2650,
+                "health": 7200,
+                "speed": 2600
+            },
+            "evo_3": {
+                "attack": 2900,
+                "health": 7800,
+                "speed": 2800
+            },
+            "evo_4": {
+                "attack": 3300,
+                "health": 8600,
+                "speed": 3100
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "yuseong": {
+        "id": "yuseong",
+        "name": "Yuseong",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438248415971643392/Yuseong_evo_1.jpg?ex=6922b6f7&is=69216577&hm=47c873cfcb7ebf16f832b3ed32b6c6ad108f50918a9f83843f321853c6fbda8e&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438248416508645576/Yuseong_evo_2.jpg?ex=6922b6f7&is=69216577&hm=e59fef51fdbdb48b025320507ad9ef237e85317006ebf45770e3b3805b609300&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438248416944721970/Yuseong_evo_3.jpg?ex=6922b6f7&is=69216577&hm=31a8020533c1545e45c7eff02c0da8290f624fb2a6596499d24c082d8601d6d3&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438248417448169594/Yuseong_evo_4.jpg?ex=6922b6f8&is=69216578&hm=7b005405cf593e922257e70ec3aa4a6961d36d21e2ac29ac92f99a4fa921754d&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2300,
+                "health": 6000,
+                "speed": 3200
+            },
+            "evo_2": {
+                "attack": 2500,
+                "health": 6300,
+                "speed": 3500
+            },
+            "evo_3": {
+                "attack": 2800,
+                "health": 6800,
+                "speed": 3900
+            },
+            "evo_4": {
+                "attack": 3200,
+                "health": 7500,
+                "speed": 4400
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "ryuhei_kuroda": {
+        "id": "ryuhei_kuroda",
+        "name": "Ryuhei Kuroda",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438249146573394062/Ryuhei_Kuroda_evo_1.jpg?ex=6922b7a5&is=69216625&hm=1a43b29e9f502c832850f533cc0c57feaeb870cd6ebbc851b3b5525b84c024fc&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438249147034763487/Ryuhei_Kuroda_evo_2.jpg?ex=6922b7a6&is=69216626&hm=86b2a1332e39699511ad6a4fe7dd48582ae92f164500a7a7c0e26687f0476889&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438249147328233502/Ryuhei_Kuroda_evo_3.jpg?ex=6922b7a6&is=69216626&hm=12619cf889af3930caa18dcf30bca34264f093c5a4e48ca55ff1372cd840be75&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438249147718176808/Ryuhei_Kuroda_evo_4.jpg?ex=6922b7a6&is=69216626&hm=f1998e3587cc7978021711eff147d36c364d07c7e611bf00353f199436bb00ee&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2600,
+                "health": 5800,
+                "speed": 2800
+            },
+            "evo_2": {
+                "attack": 2900,
+                "health": 6100,
+                "speed": 3000
+            },
+            "evo_3": {
+                "attack": 3250,
+                "health": 6600,
+                "speed": 3200
+            },
+            "evo_4": {
+                "attack": 3700,
+                "health": 7200,
+                "speed": 3500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "samuel_seo": {
+        "id": "samuel_seo",
+        "name": "Samuel Seo",
+        "rarity": "SSS",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1438254668030541937/Samuel_Seo_SSS_evo_1.jpg?ex=6922bcca&is=69216b4a&hm=6cab5e96fe9865db29d16fea23399f4e63072087345f34c719b897a829729e9a&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1438254668806357012/Samuel_Seo_SSS_evo_2.jpg?ex=6922bcca&is=69216b4a&hm=e0aee9e929769f67e3df82ff885180a53d982868518eca464689d9c089e399dd&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1438254669607604344/Samuel_Seo_SSS_evo_3.jpg?ex=6922bcca&is=69216b4a&hm=b8f305d1debaf98250d4a69c0a58cdce037a3e8d307b73c64168f768d349c6ab&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1438254670102663209/Samuel_Seo_SSS_evo_4.jpg?ex=6922bcca&is=69216b4a&hm=7c76c0429268b5a494f54cfb821d60d32afec504e3686f777f4dd3c3ac53d0a1&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 2300,
+                "health": 6500,
+                "speed": 2400
+            },
+            "evo_2": {
+                "attack": 2500,
+                "health": 6900,
+                "speed": 2600
+            },
+            "evo_3": {
+                "attack": 2800,
+                "health": 7500,
+                "speed": 2800
+            },
+            "evo_4": {
+                "attack": 3200,
+                "health": 8500,
+                "speed": 3100
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "elite": {
+        "id": "elite",
+        "name": "Elite",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437745561192235078/IMG_1740.webp?ex=6922dce5&is=69218b65&hm=42c6d2f05a23ebd8f839c36653dc8c65f162aec278bd8f3e523563eb2e3d3939&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437745561469194351/IMG_1741.jpg?ex=6922dce5&is=69218b65&hm=50c3c26ded4f39666bd9033e196c9836ead5a566675da123abc8828e946b9434&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437745561745887335/IMG_1743.png?ex=6922dce5&is=69218b65&hm=afb61c3eaf055fb723156ba08ab700c7a4c8ea46f24807f4abccf77fd5cdc245&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437745562245140631/IMG_1744.jpg?ex=6922dce6&is=69218b66&hm=ac2d1791b23d47b5b4120c3b04ee84a0d170d106c0e5d1527b7d3f60fa871b1e&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3800,
+                "health": 9000,
+                "speed": 4500
+            },
+            "evo_2": {
+                "attack": 4200,
+                "health": 9800,
+                "speed": 4800
+            },
+            "evo_3": {
+                "attack": 4700,
+                "health": 10800,
+                "speed": 5300
+            },
+            "evo_4": {
+                "attack": 5500,
+                "health": 12000,
+                "speed": 6000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jinyeong_park": {
+        "id": "jinyeong_park",
+        "name": "Jinyeong Park",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746318062653583/IMG_1745.jpg?ex=6922dd9a&is=69218c1a&hm=fe85ed1d59d0586512d561b379d7f1a34b89163a61728c98cf71fcee46032a3c&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746318360576032/IMG_1748.png?ex=6922dd9a&is=69218c1a&hm=16c36cb817b9993ec77680afe298c4806ba15028bf2274c67528c62cfa86cf70&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746318641467433/IMG_1747.jpg?ex=6922dd9a&is=69218c1a&hm=06b2812b52290114ae44d65744bba544071462ef66fa64426e3d2ead539deeb7&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746318872416377/IMG_1746.webp?ex=6922dd9a&is=69218c1a&hm=a7ec0caf6fa2084610f9fd38b501122524fe02ca8451df270073ecd09d660906&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4000,
+                "health": 9500,
+                "speed": 4000
+            },
+            "evo_2": {
+                "attack": 4400,
+                "health": 10200,
+                "speed": 4300
+            },
+            "evo_3": {
+                "attack": 4900,
+                "health": 11200,
+                "speed": 4700
+            },
+            "evo_4": {
+                "attack": 5700,
+                "health": 12800,
+                "speed": 5400
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "tom_lee": {
+        "id": "tom_lee",
+        "name": "Tom Lee",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746766165577789/IMG_1749.jpg?ex=6922de05&is=69218c85&hm=3ca1e4166713216e0b587846b7dd3ac4b7e6e7221a15fe2f3a66b383671997fd&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746766530216016/IMG_1750.jpg?ex=6922de05&is=69218c85&hm=d57394adb30e13562e95de8e0e33496f6c3cf09cb1037132a03b8532655017e1&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746767042183208/IMG_1751.jpg?ex=6922de05&is=69218c85&hm=cbe25b7624fd9706ba88bffea526646d47af3e4189ee1dc3b2ae4ed5a9be1d81&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437746767277068409/IMG_1752.jpg?ex=6922de05&is=69218c85&hm=9f139474f4cff230c55ff851ef9ef4af31742cf7b206a2e4387980696618f825&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4200,
+                "health": 11000,
+                "speed": 3800
+            },
+            "evo_2": {
+                "attack": 4600,
+                "health": 12000,
+                "speed": 4100
+            },
+            "evo_3": {
+                "attack": 5200,
+                "health": 13500,
+                "speed": 4500
+            },
+            "evo_4": {
+                "attack": 6000,
+                "health": 16000,
+                "speed": 5000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "baekho_kwon": {
+        "id": "baekho_kwon",
+        "name": "Baekho Kwon",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437747524004872296/IMG_1753.webp?ex=6922deb9&is=69218d39&hm=4328b13ba97b92dc80a659c692e0d6e0ee2fe07b4c96699c4d6dc05396edf0fa&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437747524265050132/IMG_1754.webp?ex=6922deb9&is=69218d39&hm=3d117284e661810cde35e47b5734225f93f866d87afb79a76e8e2aa9f66ee029&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437747524545806407/IMG_1756.webp?ex=6922deb9&is=69218d39&hm=f51dc0d1b4d4b2faa265acb0783438850d27d2473098039f788d0711cf1d0492&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437747524801790012/IMG_1755.webp?ex=6922deb9&is=69218d39&hm=d3d715e1ec01f9f0b87ba4524b5633c21d9aacaf064104312e442a57439d0322&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4100,
+                "health": 11500,
+                "speed": 3500
+            },
+            "evo_2": {
+                "attack": 4500,
+                "health": 12500,
+                "speed": 3800
+            },
+            "evo_3": {
+                "attack": 5000,
+                "health": 14000,
+                "speed": 4200
+            },
+            "evo_4": {
+                "attack": 5800,
+                "health": 16500,
+                "speed": 4800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "shintaro_yamazaki": {
+        "id": "shintaro_yamazaki",
+        "name": "Shintaro Yamazaki",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784448866455603/Shintaro_527_.webp?ex=6922585d&is=692106dd&hm=adcc816b114ddbccfe965c3a27ac63001316fa215343d7d5091def229fd721a1&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784449482752133/Yamazaki_Shintaro_Fan.jpg?ex=6922585d&is=692106dd&hm=bdb05aa71dd5f78bf6da0808b6ec07f6b9e751fce5632b7850b075c2ba77700d&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784450049249311/Shintaro_Yamazaki_Sullen.webp?ex=6922585d&is=692106dd&hm=5dcca3423ddec7f5cce2076b66c689fa9b4062bbee3faec468f21fbd7bebc121&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784450703294625/Shintaro-with-YodoMuramasa.webp?ex=6922585d&is=692106dd&hm=302477694458a4334bb5310785f71d5a87ec0f8f3542d9ffb0208128d2f36fc3&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3900,
+                "health": 9200,
+                "speed": 4100
+            },
+            "evo_2": {
+                "attack": 4300,
+                "health": 10000,
+                "speed": 4400
+            },
+            "evo_3": {
+                "attack": 4800,
+                "health": 11000,
+                "speed": 4800
+            },
+            "evo_4": {
+                "attack": 5600,
+                "health": 13000,
+                "speed": 5500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "brekdak": {
+        "id": "brekdak",
+        "name": "Brekdak",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785577620639848/what-do-you-think-of-brekdak-v0-y38vumt6579e1.jpg?ex=6922596a&is=692107ea&hm=a236fcceb5ac787aa2b0756badc7da9e3f8e63dbf0246c21bba04615b2c8200d&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785578233004114/if-brekdak-is-one-of-the-best-in-lookism-than-this-guy-is-v0-1sy07p6nsyy91.jpg?ex=6922596a&is=692107ea&hm=ee42af5eaf63b2e313892b0be0b7d3b455b1b2e2f45ef16213033a64b289de4f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785578601971894/images_12_12.jpg?ex=6922596a&is=692107ea&hm=48a89dbb5168c30c7978f1cc3771336b29904de3e5a73cddc3c8c88ddc05943b&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437785579130720357/MK-Brekdak.webp?ex=6922596a&is=692107ea&hm=52cc411a26ce1af990ba0fe8fc6fff0de2b1286f9e167e920af1921d074f5cfe&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4200,
+                "health": 8500,
+                "speed": 4200
+            },
+            "evo_2": {
+                "attack": 4600,
+                "health": 9200,
+                "speed": 4500
+            },
+            "evo_3": {
+                "attack": 5100,
+                "health": 10000,
+                "speed": 4900
+            },
+            "evo_4": {
+                "attack": 5900,
+                "health": 11500,
+                "speed": 5600
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jichang_kwak": {
+        "id": "jichang_kwak",
+        "name": "Jichang Kwak",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437734152496480276/IMG_1698.webp?ex=6922d245&is=692180c5&hm=6df0068d03a6ecd14400da951d9caff4133ced3d5b0815e7e3082e97631b4616&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437734152823898133/IMG_1696.jpg?ex=6922d245&is=692180c5&hm=179ef73b0d6b330b50bd63da71be817f844148610a00800001e03dc3c1bc7d8a&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437734153071104121/IMG_1697.jpg?ex=6922d245&is=692180c5&hm=567918c44aea3e502881d3d1500381a9269aff64ccb15a19983473f025c374f2&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437734153335472128/IMG_1699.webp?ex=6922d245&is=692180c5&hm=ce6a7a2ca1f0df2a891bd5db434a03ec7b33952ac82526da597c0f5e2b9ea762&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3800,
+                "health": 9000,
+                "speed": 4200
+            },
+            "evo_2": {
+                "attack": 4100,
+                "health": 9800,
+                "speed": 4500
+            },
+            "evo_3": {
+                "attack": 4600,
+                "health": 10800,
+                "speed": 4900
+            },
+            "evo_4": {
+                "attack": 5400,
+                "health": 12500,
+                "speed": 5700
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "taesoo_ma": {
+        "id": "taesoo_ma",
+        "name": "Taesoo Ma",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735761695998053/IMG_1706.jpg?ex=6922d3c5&is=69218245&hm=4a6ccc33ace1e2108a62f09dc7cb0de031aaa81090352d2b4202f206dc8750de&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735761930748004/IMG_1707.jpg?ex=6922d3c5&is=69218245&hm=43c3469a11ae46297ac64d973b296f47515baaa2624495665d311c2cca54f96a&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735762190798869/IMG_1704.webp?ex=6922d3c5&is=69218245&hm=17c3ae6101af0f6016049fc1b6f11c2a5636f3b28fdecc3632e1f1c6b66eac9b&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735762467491850/IMG_1705.jpg?ex=6922d3c5&is=69218245&hm=7201f519da54842548b459b93f7e94839d1f91c829506ff09f11f69358885dde&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4500,
+                "health": 9500,
+                "speed": 3000
+            },
+            "evo_2": {
+                "attack": 4900,
+                "health": 10300,
+                "speed": 3300
+            },
+            "evo_3": {
+                "attack": 5500,
+                "health": 11500,
+                "speed": 3600
+            },
+            "evo_4": {
+                "attack": 6500,
+                "health": 13000,
+                "speed": 4000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gongseob_ji": {
+        "id": "gongseob_ji",
+        "name": "Gongseob Ji",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437736488535064636/IMG_1708.jpg?ex=6922d472&is=692182f2&hm=5edf3ed5f8815c40bc2aec7228c07fb1ebb1441f807fee7a8c5f17caa7b0c524&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437736488795115602/IMG_1709.webp?ex=6922d472&is=692182f2&hm=f4217412416381783d98ff98d62ce25f4e02ade0e7d5427ade8c8e9e15711280&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437736489051226273/IMG_1710.webp?ex=6922d472&is=692182f2&hm=6061817d04d7c908de0cb08bcddcfde84f9051c606346cfc58b9224e97ad730e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437736489327788072/IMG_1711.webp?ex=6922d472&is=692182f2&hm=886dcb743c4d533286342f8a0fb405ee3abedfaeefda3e2831ecb3a48a85b164&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3500,
+                "health": 12000,
+                "speed": 3200
+            },
+            "evo_2": {
+                "attack": 3800,
+                "health": 13000,
+                "speed": 3500
+            },
+            "evo_3": {
+                "attack": 4300,
+                "health": 14500,
+                "speed": 3800
+            },
+            "evo_4": {
+                "attack": 5000,
+                "health": 17000,
+                "speed": 4200
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jinrang": {
+        "id": "jinrang",
+        "name": "Jinrang",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437737174790570064/IMG_1714.jpg?ex=6922d516&is=69218396&hm=6439953acb99100587408cdbb189e52ae76a4887e7933e5dda1f3d19fe203f28&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437737175088107581/IMG_1712.webp?ex=6922d516&is=69218396&hm=dd401eae21e89d813c93365e2aaa8acee8ea05f9414d311f10e961aea60738eb&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437737175407005777/IMG_1713.jpg?ex=6922d516&is=69218396&hm=104960744dd248fd0d8c752494af90b5a64f723701249b619c3a4a5ad5ecffe2&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437737175906259047/IMG_1715.png?ex=6922d516&is=69218396&hm=58878f7cad1d31be8ffa2529063c438ca244f013e238c44858ad5bd454f4b4f6&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3600,
+                "health": 9000,
+                "speed": 4000
+            },
+            "evo_2": {
+                "attack": 3900,
+                "health": 9700,
+                "speed": 4300
+            },
+            "evo_3": {
+                "attack": 4400,
+                "health": 10800,
+                "speed": 4700
+            },
+            "evo_4": {
+                "attack": 5100,
+                "health": 12200,
+                "speed": 5400
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jaegyeon_na": {
+        "id": "jaegyeon_na",
+        "name": "Jaegyeon Na",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437738171831025664/IMG_1718.jpg?ex=6922d604&is=69218484&hm=7153d32b1b39a34c2b969faa6b37d761fd997d42b09748995cbe3dd1f385c72e&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437738172078493861/IMG_1717.jpg?ex=6922d604&is=69218484&hm=ca7f7a346f103e70b44ae26c94e67d613a39aa9c7c259fdc47ba6304aaeb305b&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437738172472889345/IMG_1716.jpg?ex=6922d604&is=69218484&hm=90ca074c211333a686074856d1af6ac5936ae30b767e91b259dc2c69ca55245d&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437738172799909942/IMG_1719.jpg?ex=6922d604&is=69218484&hm=d6debce0b4b2730ff86325d60a27e4cbee8fb7ce95e77f59044e41b327193998&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3700,
+                "health": 8800,
+                "speed": 4300
+            },
+            "evo_2": {
+                "attack": 4000,
+                "health": 9500,
+                "speed": 4600
+            },
+            "evo_3": {
+                "attack": 4500,
+                "health": 10500,
+                "speed": 5100
+            },
+            "evo_4": {
+                "attack": 5300,
+                "health": 11800,
+                "speed": 5800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "seokdu_wang": {
+        "id": "seokdu_wang",
+        "name": "Seokdu Wang",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437742453678673971/IMG_1724.webp?ex=6922da00&is=69218880&hm=84968325e9e80379e7ea3be4be46e1aa0fcc4368ef83868df1e699919ba38498&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437742454068482078/IMG_1725.png?ex=6922da01&is=69218881&hm=6f68aedefc0a864bc2a9f2c26b66fba3f6d5e32746a0755b0b237ddf48c55856&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437742454483849256/IMG_1726.jpg?ex=6922da01&is=69218881&hm=b9907b7a8628725757a351a67ea82ad8b81a55cd1e6b4d501379e2b538f87e7a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437742454794354820/IMG_1727.webp?ex=6922da01&is=69218881&hm=34a5f620e8a4a846489f296b3cac5acd92af427fb2ee3d9ad55cfea3f8af0b68&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4000,
+                "health": 10500,
+                "speed": 3400
+            },
+            "evo_2": {
+                "attack": 4300,
+                "health": 11300,
+                "speed": 3700
+            },
+            "evo_3": {
+                "attack": 4800,
+                "health": 12500,
+                "speed": 4000
+            },
+            "evo_4": {
+                "attack": 5600,
+                "health": 14500,
+                "speed": 4500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "sinu_han": {
+        "id": "sinu_han",
+        "name": "Sinu Han",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097910632386660/IMG_1826.jpg?ex=6922825f&is=692130df&hm=503275c81a6c33611bbb1b42da6bd288514884767ce6028abd485fe4673a9c6d&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097910930313286/IMG_1827.jpg?ex=6922825f&is=692130df&hm=e7da6e53fc8fde6d8722d7d1f696407d87f1f1c9c0bd0eab04ff4f26bdf2f30c&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097911416721479/IMG_1828.jpg?ex=6922825f&is=692130df&hm=f3d6bdd3a3d76cbda7da05c2b46ea32ee71e41b45a47c6a1d2fbb0ec28609239&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1439097911676899409/IMG_1829.webp?ex=6922825f&is=692130df&hm=7c068ca36feb37c8e96e36d2d5b5b63640807bcc17dc3208fac4335b96b754c1&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3800,
+                "health": 8800,
+                "speed": 4400
+            },
+            "evo_2": {
+                "attack": 4100,
+                "health": 9500,
+                "speed": 4700
+            },
+            "evo_3": {
+                "attack": 4600,
+                "health": 10500,
+                "speed": 5200
+            },
+            "evo_4": {
+                "attack": 5400,
+                "health": 12000,
+                "speed": 5900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "daniel_park_og": {
+        "id": "daniel_park_og",
+        "name": "Daniel Park(FB)",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437742919540019241/IMG_1728.jpg?ex=6922da6f&is=692188ef&hm=24eb7346ec2cf9d87e5dabb0dc8b357e71260fdccf21650775f59ee50688ff29&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437742919812518043/IMG_1730.jpg?ex=6922da70&is=692188f0&hm=47b36e9168488036671b40f47b5838bc2ce4e0e74ca172f4dc766280dbe969fe&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437742920043073587/IMG_1729.png?ex=6922da70&is=692188f0&hm=0e9cea07191812156c20b4e390e74a074cef0abd0768f514312aab1957f77ec6&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437742920353714237/IMG_1731.jpg?ex=6922da70&is=692188f0&hm=c1ede1ecf3c18d24136b83233981026a225780cb6f459e6bac73d38e6752840b&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4000,
+                "health": 9200,
+                "speed": 4100
+            },
+            "evo_2": {
+                "attack": 4300,
+                "health": 9900,
+                "speed": 4400
+            },
+            "evo_3": {
+                "attack": 4800,
+                "health": 11000,
+                "speed": 4800
+            },
+            "evo_4": {
+                "attack": 5600,
+                "health": 12800,
+                "speed": 5600
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "johan": {
+        "id": "johan",
+        "name": "Johan",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437739343765569586/Evo_1_johan.webp?ex=6922d71b&is=6921859b&hm=35eb928b43ea94b63d492e43f6b64da20fff49c9b8179fba516def3e1cfaf01e&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437739344118157382/Evo_2_johan.webp?ex=6922d71b&is=6921859b&hm=3a957a88dfba600cee36507196ee7d5d7930a995195c2a08439f509f49e8837f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437739344671674468/Evo_3_Johan.jpg?ex=6922d71b&is=6921859b&hm=4cbba91ebeffe9359f34a30c55e070f22e09d83a8899ac4c2d818600a0ef9497&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437739345153884231/Evo_4_Johan.jpg?ex=6922d71b&is=6921859b&hm=1ea8f1fb3d7a0c4415c54f0294af9a95259b338df4d4759019b7d1d6c807cbb0&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4200,
+                "health": 8000,
+                "speed": 4300
+            },
+            "evo_2": {
+                "attack": 4600,
+                "health": 8700,
+                "speed": 4600
+            },
+            "evo_3": {
+                "attack": 5100,
+                "health": 9600,
+                "speed": 5000
+            },
+            "evo_4": {
+                "attack": 6000,
+                "health": 11000,
+                "speed": 5800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "jake_kim": {
+        "id": "jake_kim",
+        "name": "Jake Kim",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437740300586975355/Jake_Kim_Evo_1.jpg?ex=6922d7ff&is=6921867f&hm=b00a12795da24305d829d1854ec0da88f7c5c8345039529235f371fc364cd0d9&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437740301048610846/Jake_Kim_Evo_2.jpg?ex=6922d7ff&is=6921867f&hm=de3f4baecf34299406f63a9568af458d022e6e21197bb01d454ec41040ef484f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437740301849596025/Jake_Kim_Evo_3.jpg?ex=6922d7ff&is=6921867f&hm=d0303ea80e3fead27f2734617301541d697903a9e5fe76398305d059ddb06c5a&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437740302520815697/Jake_Kim_Evo_4.webp?ex=6922d800&is=69218680&hm=5e48be721b28f0fab50b21c357c4cc8953cb5506ec91c0b9be2690ee9b8f0fa3&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3800,
+                "health": 9500,
+                "speed": 3800
+            },
+            "evo_2": {
+                "attack": 4200,
+                "health": 10300,
+                "speed": 4100
+            },
+            "evo_3": {
+                "attack": 4700,
+                "health": 11500,
+                "speed": 4500
+            },
+            "evo_4": {
+                "attack": 5500,
+                "health": 13200,
+                "speed": 5200
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "eli_jang": {
+        "id": "eli_jang",
+        "name": "Eli Jang",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744655776219136/Eli_Jang_evo_1.jpg?ex=6922dc0d&is=69218a8d&hm=5abfd89f46383b6377bb5c4e81dda656fb831b78ec774c4fab1ded8268954939&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744656283865098/Eli_Jang_evo_2.jpg?ex=6922dc0e&is=69218a8e&hm=210987a008d93a81ab8225c9822b088c1300ea71dfd9bc20a6eafa197440d8db&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744656778526852/Eli_Jang_evo_3.jpg?ex=6922dc0e&is=69218a8e&hm=70ab8307d2af3527c09d275383fd88e6f463a67c41b9c1069bf86ec4751888bb&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744657214865480/Eli_Jang_evo_4.jpg?ex=6922dc0e&is=69218a8e&hm=acd0422dc2850861a293f5c60de69e0fc0c7a5d9e57aebdfa910cd3e0b6979aa&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3900,
+                "health": 8800,
+                "speed": 4100
+            },
+            "evo_2": {
+                "attack": 4300,
+                "health": 9500,
+                "speed": 4400
+            },
+            "evo_3": {
+                "attack": 4800,
+                "health": 10600,
+                "speed": 4800
+            },
+            "evo_4": {
+                "attack": 5600,
+                "health": 12200,
+                "speed": 5500
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "vin_jin": {
+        "id": "vin_jin",
+        "name": "Vin Jin",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437750226839666800/Vin_Jin_evo_1.jpg?ex=6922e13e&is=69218fbe&hm=80c5a9a2d5757c592bb13cf5870a1dcb10c107b05efdf06a2d3ab5a78db47efd&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437750227296714834/Vin_Jin_evo_2.jpg?ex=6922e13e&is=69218fbe&hm=bd5f002841b14a897fb33e96f7b688950a78bf29456bb69484423ec1f80ad2ab&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437750227820875887/Vin_Jin_evo_3.jpg?ex=6922e13e&is=69218fbe&hm=27717a8725b75551bf0892d2b641a7a4edf4b0accc8c0f9f7752b56e0c55ac94&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437750228156551168/Vin_Jin_evo_4.jpg?ex=6922e13e&is=69218fbe&hm=a6bd475e3f50e15746232f33bf7e148ae77ef8976df626acdd92c87ee4e4d061&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3700,
+                "health": 9200,
+                "speed": 3700
+            },
+            "evo_2": {
+                "attack": 4100,
+                "health": 10000,
+                "speed": 4000
+            },
+            "evo_3": {
+                "attack": 4600,
+                "health": 11200,
+                "speed": 4400
+            },
+            "evo_4": {
+                "attack": 5300,
+                "health": 13000,
+                "speed": 5000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "hangyeoul_baek": {
+        "id": "hangyeoul_baek",
+        "name": "Hangyeoul Baek",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437794642610356376/Hangyeoul_Baek_SR_evo_1.jpg?ex=692261db&is=6921105b&hm=5b98b264c61d141b4a0ca73ceb1a28a81216c87066e7782bd28684c49044b9b1&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437794643298488401/Hangyeoul_Baek_SR_evo_2.jpg?ex=692261db&is=6921105b&hm=61c95aa65749bf2d4ad536436e3efd83e6d342d38de4a05b00bd3c746d86d809&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437794643726041159/Hangyeoul_Baek_SR_evo_3.jpg?ex=692261db&is=6921105b&hm=3cbd9b20f24a6312ed9fdf9f174966e303cff7c84ab4184bed2bfbdffb35de23&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437794644363579432/Hangyeoul_Baek_SR_evo_4.jpg?ex=692261dc&is=6921105c&hm=c09641b0b1ae2b4f42d191fc32d784929568fc1bde28ea2023721b002ffc029e&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3000,
+                "health": 12000,
+                "speed": 3000
+            },
+            "evo_2": {
+                "attack": 3300,
+                "health": 13000,
+                "speed": 3200
+            },
+            "evo_3": {
+                "attack": 3800,
+                "health": 14500,
+                "speed": 3500
+            },
+            "evo_4": {
+                "attack": 4500,
+                "health": 16500,
+                "speed": 4000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "james_lee": {
+        "id": "james_lee",
+        "name": "James Lee",
+        "rarity": "SSR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437733308111917106/IMG_1694.jpg?ex=6922d17c&is=69217ffc&hm=131612cb3b6da556255edcc01fc0d9c539358c3563306346cbf7a99f1f1971d4&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437733308350857216/IMG_1692.jpg?ex=6922d17c&is=69217ffc&hm=64b15abc8752d5749cfa90b96ff06de32508fa5cb60f63248cc7c0807cf77f54&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437733308581810299/IMG_1693.png?ex=6922d17c&is=69217ffc&hm=94b7b03c8a3130ce62db0f8a30bcce68b40c2bdec750c94628ab2ccd65abf78d&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437733308824948736/IMG_1695.jpg?ex=6922d17c&is=69217ffc&hm=6a2cf7167ea519b1ec08c80cce3db50a2eb90ab6f47d970d1e8af8906e4a8f9c&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4800,
+                "health": 10000,
+                "speed": 5500
+            },
+            "evo_2": {
+                "attack": 5200,
+                "health": 11000,
+                "speed": 5800
+            },
+            "evo_3": {
+                "attack": 5800,
+                "health": 12500,
+                "speed": 6200
+            },
+            "evo_4": {
+                "attack": 6800,
+                "health": 14500,
+                "speed": 7000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "seong_jiyuk": {
+        "id": "seong_jiyuk",
+        "name": "Seong Jiyuk",
+        "rarity": "SSR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735237214802061/IMG_1700.webp?ex=6922d348&is=692181c8&hm=faeb7e65c12c5661ecce9f4d4c4361c3cc2c2c6a39425936f0159d67e1292a1b&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735237575643136/IMG_1701.webp?ex=6922d348&is=692181c8&hm=65cb31fff5bb2677402798888078fbf367de3e82d0333e43782505860b2cee05&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735237978165338/IMG_1702.jpg?ex=6922d348&is=692181c8&hm=c87db8f32572a23c8212c9b8f3024b3c924c6f7589f494f7c61d3c7904c44b04&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437735238284480552/IMG_1703.png?ex=6922d348&is=692181c8&hm=eab2e086b555ac019483cf6e51d221c6f14555ec713506d89b083df648a89fac&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 4500,
+                "health": 10500,
+                "speed": 5200
+            },
+            "evo_2": {
+                "attack": 4900,
+                "health": 11500,
+                "speed": 5500
+            },
+            "evo_3": {
+                "attack": 5500,
+                "health": 13000,
+                "speed": 5900
+            },
+            "evo_4": {
+                "attack": 6500,
+                "health": 15000,
+                "speed": 6600
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "goo_kim": {
+        "id": "goo_kim",
+        "name": "Goo Kim",
+        "rarity": "SSR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766897516150865/IMG_1770.webp?ex=6922f0c4&is=69219f44&hm=36ebe9e49e01edfe82cf03b0394ce3e169a646aed2a10e2531b3d11ab75d8ab3&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766897847504896/IMG_1768.webp?ex=6922f0c4&is=69219f44&hm=eb181cb765b1b6b1dba43ed7affe65073041cd73dc6ac9921f285c601d78245f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766898417799281/IMG_1769.jpg?ex=6922f0c5&is=69219f45&hm=30db0f51fbc722698e0feb31cae7e2a9ff46ec36645c91a2fbaece6109e02e3e&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766898841288795/IMG_1771.jpg?ex=6922f0c5&is=69219f45&hm=708d625f6d64d033819d0c5350b0d70c43f609c066bac59c26094441d22e612e&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 5000,
+                "health": 9500,
+                "speed": 5000
+            },
+            "evo_2": {
+                "attack": 5400,
+                "health": 10300,
+                "speed": 5300
+            },
+            "evo_3": {
+                "attack": 6000,
+                "health": 11800,
+                "speed": 5700
+            },
+            "evo_4": {
+                "attack": 7000,
+                "health": 13800,
+                "speed": 6400
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "daniel_park_sb": {
+        "id": "daniel_park_sb",
+        "name": "Daniel Park(SB)",
+        "rarity": "SSR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744036491301106/IMG_1732.jpg?ex=6922db7a&is=692189fa&hm=b42b2de591f4b3d8036dfd3e52285cc28d2dffe20d8c1cb0387e3d294f61aa90&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744036940218470/IMG_1735.jpg?ex=6922db7a&is=692189fa&hm=4efaf5c144f690ade7863d623504acc0f44c8ae8a91e1a15f224c99cd5cd567e&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744037401595995/IMG_1733.jpg?ex=6922db7a&is=692189fa&hm=f4a74ea673fb3db3142b09fd8efd86d88ccdeaa91b09fb5c0dce5cfaa1db2b81&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437396015811661826/1437744038064422965/IMG_1734.jpg?ex=6922db7a&is=692189fa&hm=f09bd954744db91954e754f4313d3dfd449f505a6c1c989eca17aea224c48433&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 5200,
+                "health": 11000,
+                "speed": 5200
+            },
+            "evo_2": {
+                "attack": 5600,
+                "health": 12000,
+                "speed": 5600
+            },
+            "evo_3": {
+                "attack": 6200,
+                "health": 13500,
+                "speed": 6000
+            },
+            "evo_4": {
+                "attack": 7200,
+                "health": 15500,
+                "speed": 7000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gapryong_kim": {
+        "id": "gapryong_kim",
+        "name": "Gapryong Kim",
+        "rarity": "UR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437744968448999486/IMG_1736.webp?ex=6922dc58&is=69218ad8&hm=3c4721ee0f7da48aec3b58d71524d5289472bc0b1edfce23a3720caa88f560e6&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437744968977354862/IMG_1737.webp?ex=6922dc58&is=69218ad8&hm=f93902286aad55f217bc037493b4e3a528a58ff0d6271485ed336b103248dc46&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437744969296380035/IMG_1738.jpg?ex=6922dc58&is=69218ad8&hm=2bb34b800a87304478843ad2d8809b343a0725c6b81d60f74b6fc584752a7ed1&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437744969917005844/IMG_1739.webp?ex=6922dc58&is=69218ad8&hm=4874ac3ba7540bc5994d77334351c18c18948803879fef479b64b4cec13733b8&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 6500,
+                "health": 15000,
+                "speed": 6000
+            },
+            "evo_2": {
+                "attack": 7000,
+                "health": 16500,
+                "speed": 6400
+            },
+            "evo_3": {
+                "attack": 7800,
+                "health": 18000,
+                "speed": 7000
+            },
+            "evo_4": {
+                "attack": 8800,
+                "health": 20000,
+                "speed": 8000
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "pacheon_jo": {
+        "id": "pacheon_jo",
+        "name": "Pacheon Jo",
+        "rarity": "SR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1438939050273804379/the-monsterous-strength-of-paecheon-jo-v0-v6h2e9am5sof1.jpg?ex=6922972b&is=692145ab&hm=673f336053840a8ff5f7930938a6a0651274ae68ebb98b5e04eebf8807de9364&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1438939050840162304/how-strong-do-you-all-think-this-paecheon-jo-guy-is-he-is-v0-imiuf5girodf1.png?ex=6922972b&is=692145ab&hm=dd5a83862dfb28fb4696bb60cd776e3de63245ebfbcfceb438469a84d5a0625f&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1438939051561455669/has-it-actually-been-confirmed-that-paecheon-jo-is-a-weapon-v0-oh2eor7ansvf1.jpg?ex=6922972c&is=692145ac&hm=af5e40688a09001db1346d68245a9050cc11d2f0b150af1f77b587c45627b523&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1438939052111036678/egguC4bCm2fUPSqLcAtlbNLWHnPjy0gUReDbqujA8Kh2oYK_YVGZltkOyfwiRAxyEkmiDkj_mdcn684bJ9IQwA.webp?ex=6922972c&is=692145ac&hm=21d5b7e94f8f90c65d0c10044c479b4e3b4f88666bf73973fe7fb7da61358e19&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 3600,
+                "health": 9000,
+                "speed": 3500
+            },
+            "evo_2": {
+                "attack": 3900,
+                "health": 9800,
+                "speed": 3800
+            },
+            "evo_3": {
+                "attack": 4400,
+                "health": 11000,
+                "speed": 4200
+            },
+            "evo_4": {
+                "attack": 5200,
+                "health": 12500,
+                "speed": 4800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "gun_park": {
+        "id": "gun_park",
+        "name": "Gun Park",
+        "rarity": "UR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766085863542907/IMG_1766.webp?ex=6922f003&is=69219e83&hm=42c2b1862ca8e014bb7337060c7109016759c24d1d6f37caaecff5c8f8b90b24&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766086207602769/IMG_1767.jpg?ex=6922f003&is=69219e83&hm=7130fabd12cb2e5bc5f5d8b56ed787117e01498853cce95a4e905aa49443f965&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766086580768788/IMG_1765.jpg?ex=6922f003&is=69219e83&hm=7aa8533c64fc25acb68628069ec7ac3d1eea4abe87adeea0e667a76b696dda05&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437395369406500936/1437766086874501231/IMG_1764.webp?ex=6922f003&is=69219e83&hm=ff8acda8190afa15f729ee0db4681a5f4e7e26d6c9e2813e3ff11a9fb0872675&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 6200,
+                "health": 14000,
+                "speed": 5800
+            },
+            "evo_2": {
+                "attack": 6800,
+                "health": 15500,
+                "speed": 6200
+            },
+            "evo_3": {
+                "attack": 7500,
+                "health": 17000,
+                "speed": 6800
+            },
+            "evo_4": {
+                "attack": 8500,
+                "health": 19500,
+                "speed": 7800
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    },
+    "shingen_yamazaki": {
+        "id": "shingen_yamazaki",
+        "name": "Shingen Yamazaki",
+        "rarity": "UR",
+        "images": {
+            "evo_1": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784180116426793/525_Young_Shingen.webp?ex=692300dd&is=6921af5d&hm=5994c0df6c0bc6fe9039efac08a17ab6bd97b30a73ad5cd9d39cb58a4f249e79&",
+            "evo_2": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784180875333642/ShingenLK521.png?ex=692300dd&is=6921af5d&hm=1a0b6ef987672a92b920989e950c38b03953c19d200f94919433d5d59173eda8&",
+            "evo_3": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784181324251176/Shingen_after_defeating_Watanabe.webp?ex=692300dd&is=6921af5d&hm=f4b65240cedbcec93668c1b9390e24554bcbda9c4e9f3226815859531ce53353&",
+            "evo_4": "https://cdn.discordapp.com/attachments/1437394638964265030/1437784181550747728/YamazakiMember529.webp?ex=692300dd&is=6921af5d&hm=5186b675b5eabe9a787171114527a993b3b931037652c506fda2c1cf72baf6da&"
+        },
+        "stats": {
+            "evo_1": {
+                "attack": 6400,
+                "health": 14500,
+                "speed": 5900
+            },
+            "evo_2": {
+                "attack": 6900,
+                "health": 16000,
+                "speed": 6300
+            },
+            "evo_3": {
+                "attack": 7700,
+                "health": 17500,
+                "speed": 6900
+            },
+            "evo_4": {
+                "attack": 8700,
+                "health": 20000,
+                "speed": 7900
+            }
+        },
+        "level": 1,
+        "exp": 0,
+        "fragments": 0,
+        "kills": 0,
+        "ability": "None"
+    }
+}
