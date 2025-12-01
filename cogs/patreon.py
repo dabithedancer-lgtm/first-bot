@@ -44,7 +44,7 @@ class Patreon(commands.Cog):
             @discord.ui.button(label="Copy Tier", style=discord.ButtonStyle.secondary, emoji="🥉")
             async def copy_tier(self, interaction: discord.Interaction, button: discord.ui.Button):
                 embed = discord.Embed(
-                    title="🥉 Copy Tier - $5/month",
+                    title="🥉 Copy Tier - $10/month",
                     color=0xC0C0C0
                 )
                 embed.description = """
@@ -64,7 +64,7 @@ class Patreon(commands.Cog):
             @discord.ui.button(label="UI Tier", style=discord.ButtonStyle.primary, emoji="🥈")
             async def ui_tier(self, interaction: discord.Interaction, button: discord.ui.Button):
                 embed = discord.Embed(
-                    title="🥈 UI Tier - $10/month",
+                    title="🥈 UI Tier - $25/month",
                     color=0x9B59B6
                 )
                 embed.description = """
@@ -85,7 +85,7 @@ class Patreon(commands.Cog):
             @discord.ui.button(label="TUI Tier", style=discord.ButtonStyle.success, emoji="🥇")
             async def tui_tier(self, interaction: discord.Interaction, button: discord.ui.Button):
                 embed = discord.Embed(
-                    title="🥇 TUI Tier - $20/month",
+                    title="🥇 TUI Tier - $50/month",
                     color=0xF1C40F
                 )
                 embed.description = """
