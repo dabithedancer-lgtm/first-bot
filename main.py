@@ -3,6 +3,23 @@ import os
 import config
 import asyncio
 from discord.ext import commands
+from flask import Flask
+from threading import Thread
+
+# Flask web server for Replit
+app = Flask('')
+
+
+@app.route('/')
+def home():
+    return "Bot Running!"
+
+
+def run():
+    app.run(host='0.0.0.0', port=8080)
+
+
+Thread(target=run).start()
 
 # Enable Intents (Required for Pycord)
 intents = discord.Intents.default()
