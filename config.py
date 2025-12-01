@@ -29,11 +29,3 @@ IMG_TERRITORY_MAP = "https://example.com/map.jpg"
 
 # File Paths
 DATA_DIR = "./data"
-
-# Patreon Roles (from lowest to highest tier)
-# Copy (Tier 1), UI (Tier 2), TUI (Tier 3)
-PATREON_ROLES = [
-    1444529717704261652,  # Copy
-    1444529800751480902,  # UI
-    1444529879918837831,  # TUI
-]
