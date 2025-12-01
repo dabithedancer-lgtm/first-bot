@@ -6,20 +6,25 @@ from discord.ext import commands
 from flask import Flask
 from threading import Thread
 
-# Flask web server for Replit
+# Flask web server for keeping bot alive
 app = Flask('')
 
 
 @app.route('/')
 def home():
-    return "Bot Running!"
+    return "Bot is running!"
 
 
 def run():
     app.run(host='0.0.0.0', port=8080)
 
 
-Thread(target=run).start()
+def keep_alive():
+    t = Thread(target=run)
+    t.start()
+
+
+keep_alive()
 
 # Enable Intents (Required for Pycord)
 intents = discord.Intents.default()
