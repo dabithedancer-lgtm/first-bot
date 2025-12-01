@@ -36,12 +36,12 @@ if __name__ == "__main__":
         print(f"Bot Online as {bot.user}")
         await bot.change_presence(activity=discord.Game(name="ls help | Lookism Gacha"))
 
-        # Load cogs asynchronously
-        for extension in initial_extensions:
-            try:
-                await bot.load_extension(extension)
-                print(f"Loaded {extension}")
-            except Exception as e:
-                print(f"Failed to load {extension}: {e}")
+    # Load cogs before running
+    for extension in initial_extensions:
+        try:
+            bot.load_extension(extension)
+            print(f"Loaded {extension}")
+        except Exception as e:
+            print(f"Failed to load {extension}: {e}")
 
     bot.run(config.TOKEN)
