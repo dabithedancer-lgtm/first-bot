@@ -1,10 +1,30 @@
 import discord
 import time
+import json
+import os
 from discord.ext import commands
-from utils.database import load, save
 import config
 
 USERS_FILE = "data/users.json"
+
+
+def load(filename):
+    try:
+        if os.path.exists(filename):
+            with open(filename, 'r') as f:
+                return json.load(f)
+        return {}
+    except:
+        return {}
+
+
+def save(data, filename):
+    try:
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, 'w') as f:
+            json.dump(data, f, indent=2)
+    except Exception as e:
+        print(f"Error saving {filename}: {e}")
 
 
 class Patreon(commands.Cog):
